@@ -1,0 +1,41 @@
+baseurl = "https://manessinger.com/"
+languageCode = "en-us"
+title = "Andreas Manessinger"
+theme = "manessinger_com"
+preserveTaxonomyNames = true
+rssLimit = 30
+paginate = 10
+pygmentsCodefences = true
+pygmentsStyle = "native"
+
+[taxonomies]
+    category = "categories"  
+    tag = "tags"
+
+[permalinks]
+    post = "/:slug/"
+    page = "/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = -110
+    
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = -120
+
+[[menu.main]]
+    name = "Categories"
+    url = "/categories"
+    weight = -130
+
+[params]
+    description = "Andreas Manessinger's Daily Photography ... and more"
+
+    [params.logo]
+    url = "logo.jpg"
+    width = 50
+    height = 50
+    alt = "Logo"
