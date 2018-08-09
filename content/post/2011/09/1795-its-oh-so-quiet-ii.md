@@ -1,6 +1,6 @@
 ---
 title: "1795 - It’s Oh So Quiet II"
-url: /2011/09/1795-it%e2%80%99s-oh-so-quiet-ii.html
+url: /2011/09/1795-its-oh-so-quiet-ii.html
 publishDate: Sun, 18 Sep 2011 14:36:13 +0000
 date: 2011-09-18 16:36:13
 categories: 
