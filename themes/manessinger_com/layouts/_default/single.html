@@ -55,7 +55,7 @@
         {{ if $comment.author_url }}<a href="{{ $comment.author_url }}" target="_blank">{{ end }}
         {{ $comment.author }}
         {{ if $comment.author_url }}</a>{{ end }}&nbsp;
-        ({{ $comment.date | dateFormat "Monday, January 2, 2006"}})
+        ({{ $comment.date | dateFormat "2006-01-02" }})
       </h4>
         {{ if lt $comment.date "2018-08-08" }}
       <p class="comment-content">{{ $comment.content | safeHTML }}</p>
