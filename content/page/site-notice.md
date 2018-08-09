@@ -12,8 +12,8 @@ the kind crowd of Craig Tanner's legendary but long-gone site "The Radiant Vista
 
 During that first phase, my images were hosted in a paid SmugMug account.
 
-Sometime in September 2009 SmugMug's had a few outages and Blogger wouldn't allow me to add 
-more tags. With over 1000 posts I had outgrown my tools and migrated to WordPress on a 
+Sometime in September 2009 SmugMug had a few outages and Blogger wouldn't allow me to add 
+more tags. With over 1000 posts I had outgrown my tools and so I migrated to WordPress on a 
 shared hosting account. At that time I started to use the new domain "manessinger.com".
 
 In August 2018 I have again migrated the blog, this time to Hugo. Sources are now hosted on
