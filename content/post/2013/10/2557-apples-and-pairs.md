@@ -22,7 +22,7 @@ tags:
 
 Last weekend was rather rainy, but we had a few sunny moments.
 
-<a target="_blank" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2013/20131011_162051-Edit_lr_plain.jpg"><img style="margin: 0pt 10px 0pt 0px; float: left;" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2013/20131011_162051-Edit_lr_plain.jpg" alt="" border="0" /></a> I used one of them to take some images of an apple tree. While I was there, I met a professional camera man who made test videos with a <a href="http://www.amazon.com/gp/product/B009DYMNUE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009DYMNUE&linkCode=as2&tag=thedailphotof-20">Canon C100 Cinema EOS Camera</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=thedailphotof-20&l=as2&o=1&a=B009DYMNUE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+<a target="_blank" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2013/20131011_162051-Edit_lr_plain.jpg"><img style="margin: 0pt 10px 0pt 0px; float: left;" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2013/20131011_162051-Edit_lr_plain.jpg" alt="" border="0" /></a> I used one of them to take some images of an apple tree. While I was there, I met a professional camera man who made test videos with a Canon C100 Cinema EOS Camera.
 
 This is one of Canon's specialist video cameras based on DSLR technology. It's an impressive piece of technology, but seeing it made me immediately love my OM-D E-M5 for its small size and low weight 🙂
 
