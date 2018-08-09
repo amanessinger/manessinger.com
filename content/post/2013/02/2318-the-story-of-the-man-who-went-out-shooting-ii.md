@@ -6,7 +6,6 @@ date: 2013-02-20 18:39:36
 categories: 
   - "olympus-m-zuiko-digital-17mm-f1-8"
 tags: 
-  - "20130216_131307_lr-jpg"
   - "austria"
   - "carinthia"
   - "karnten"
