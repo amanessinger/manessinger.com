@@ -1,6 +1,6 @@
 ---
 title: "1873 - I Went To The Water’s Edge II"
-url: /2011/12/1873-i-went-to-the-water%e2%80%99s-edge-ii.html
+url: /2011/12/1873-i-went-to-the-waters-edge-ii.html
 publishDate: Mon, 05 Dec 2011 17:50:00 +0000
 date: 2011-12-05 18:50:00
 categories: 

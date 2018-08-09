@@ -1,6 +1,6 @@
 ---
 title: "1275 – An Architect’s Dream II"
-url: /2010/04/1275-%e2%80%93-an-architect%e2%80%99s-dream-ii.html
+url: /2010/04/1275-an-architects-dream-ii.html
 publishDate: Sun, 11 Apr 2010 08:15:46 +0000
 date: 2010-04-11 10:15:46
 categories: 

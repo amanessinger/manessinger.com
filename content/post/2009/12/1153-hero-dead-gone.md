@@ -1,6 +1,6 @@
 ---
 title: "1153 – Hero Dead & Gone II"
-url: /2009/12/1153-%e2%80%93-hero-dead-gone.html
+url: /2009/12/1153-hero-dead-gone.html
 publishDate: Thu, 10 Dec 2009 01:09:07 +0000
 date: 2009-12-10 02:09:07
 categories: 

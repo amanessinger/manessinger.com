@@ -1,6 +1,6 @@
 ---
 title: "1304 – Pink Noise Waltz II"
-url: /2010/05/1304-%e2%80%93-pink-noise-waltz-ii.html
+url: /2010/05/1304-pink-noise-waltz-ii.html
 publishDate: Tue, 11 May 2010 01:13:40 +0000
 date: 2010-05-11 03:13:40
 categories: 

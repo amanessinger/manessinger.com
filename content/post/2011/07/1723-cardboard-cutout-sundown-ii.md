@@ -1,6 +1,6 @@
 ---
 title: "1723 – Cardboard Cutout Sundown II"
-url: /2011/07/1723-%e2%80%93-cardboard-cutout-sundown-ii.html
+url: /2011/07/1723-cardboard-cutout-sundown-ii.html
 publishDate: Fri, 08 Jul 2011 18:18:03 +0000
 date: 2011-07-08 20:18:03
 categories: 
