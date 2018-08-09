@@ -1,0 +1,7 @@
+{
+    "author": "Markus",
+    "author_url": "http://markus-spring.info",
+    "date": "2012-04-27 07:26:29",
+    "indent_level": 0,
+    "content": "Andreas, I don't know if you have explored the plugins for AfterShot Pro already. Myself, I use the standard sharpening very rarely but most of the times resort to Wavelet Sharpen (http://www.aftershotpro.com/plugins/index.html?plug=waveletsharpen3). And another trick tu subdue artifacts is to set a small value of chromatic abberation correction. Might be worth a try."
+}

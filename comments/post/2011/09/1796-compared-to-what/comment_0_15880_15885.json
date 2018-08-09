@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2011-09-20 09:08:44",
+    "indent_level": 1,
+    "content": "I normally solve this by duplicating the basic layer that I've got from the RAW converter. Then I do different levels of noise reduction - strong for the sky, weak for the landscape - and blend them with a mask. In Photoshop you can use \"Select color range\" on the sky, and that normally gives you a fine sky mask with a few clicks. If there are other blue parts in the image, you can always paint in the mask. The blue of the sky tends to get lighter near the horizon, thus the opacity of the layer with strong NR will get weaker, but that's OK as well, because noise is mostly a problem in dark areas, at least as long as you have exposed properly.\n\nFor sharpening I often use the same kind of mask. Sharpening white clouds may be OK, sharpening the blue backdrop is stupid, thus I use a mask. All these adjustments are local. No camera can do that for you, and that's the reason why I always use Photoshop."
+}

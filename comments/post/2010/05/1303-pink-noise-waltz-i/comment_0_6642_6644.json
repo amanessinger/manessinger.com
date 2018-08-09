@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2010-05-10 07:37:10",
+    "indent_level": 1,
+    "content": "I'd say the quality is varying. At least the D200 profiles were not that good, I don't think I tried for the D300. But yes, I see the point. The other problem with ISO-based profiles is, that ISO as recorded in the meta data does not tell that much about the actual noise reduction needs. A high-contrast night shot is different from a twilight shot with sky, and it so much depends on where your information is. In difficult situations I tend to use \"Select Color Range\"-based masks, for instance to restrict smudging over details to the sky. In the end though, I think noise reduction algorithms are as good as their ability to detect edges within random noise. That's something that the Topaz products do very well."
+}

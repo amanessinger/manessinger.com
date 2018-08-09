@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2008-02-21 05:34:00",
+    "indent_level": 0,
+    "content": "Derek,<br/><br/>I've put a link to a cut down PSD file to the bottom of the article. The two layers in the group \"blur (neutral)\" were simply merged copies of the layers below the group (i.e. from \"orig\" up including the group \"clean\"), and then I have applied a Gaussian blur to each of them, radius 5 to layer \"multiply\" and radius 30 to layer \"screen\"."
+}

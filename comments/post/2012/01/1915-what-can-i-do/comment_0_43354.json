@@ -1,0 +1,7 @@
+{
+    "author": "Juha Haataja",
+    "author_url": "http://lightscrape.blogspot.com/",
+    "date": "2012-01-15 09:06:25",
+    "indent_level": 0,
+    "content": "Thanks for the warning!\n\nI must say that even though I have multiple copies and backup systems of my local data - e.g. the photographs, music and movies - I haven't made regular backups of my Blogger or Flickr accounts. \n\nSo far so good, though. Anyway, of my photographs the only thing which I really value and want to preserve are the family ones.\n\nThere are new photographs to be taken and new blog postings to be written, so I feel it wouldn't be too terrible if the blog content at Light Scrape would be erased at some point. It is work in progress anyway, looking forward rather than backward.\n\nHowever,I wouldn't want to lose the content of my Finnish language blog Valopolku where I have written several hundred book reviews. Losing those would be a setback. \n\nIs there an automatic (Unix command line?) way of exporting the Blogger xml database to a local directory? Putting a backup reminder to the calendar isn't as good as something which happens automatically."
+}

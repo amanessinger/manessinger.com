@@ -1,0 +1,7 @@
+{
+    "author": "Markus",
+    "author_url": "http://markus-spring.info",
+    "date": "2012-01-15 11:20:47",
+    "indent_level": 1,
+    "content": "Juha, you should be able to download the content of any url with the wget command. You can even specify username and password as wget parameters or a special cookie file that should be used. I've never tried that with blogger, but it worked well with my previous hoster's database dumps."
+}

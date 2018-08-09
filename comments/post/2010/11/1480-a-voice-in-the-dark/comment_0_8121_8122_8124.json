@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2010-11-03 17:25:41",
+    "indent_level": 2,
+    "content": "Ok, so you use them for very different things. As to support in CS3, you could create DNG right from the start, using the Adobe DNG converter. It's standalone and not bound to a certain Photoshop version like Camera RAW. Adobe distributes it in a bundle together with Camera RAW, and I remember having seen some batch importers (camera or card to file system), that support running the converter automatically upon import.\n\nAs far as image quality goes, I don't think I can see any noise in my D300's images as long as I have exposed properly. Of course, you know what I do to pixels, when I begin with extreme processing in Photoshop, I frequently unearth noise, even in images taken at base ISO. But that's normal: as soon as you begin rising shadows, you are amplifying the signal, and that's not different from what raising ISO in-camera does."
+}

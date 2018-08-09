@@ -1,0 +1,19 @@
+---
+title: "650 - True Love Tends to Forget"
+url: /2008/07/650-true-love-tends-to-forget.html
+publishDate: Fri, 25 Jul 2008 18:00:00 +0000
+date: 2008-07-25 18:00:00
+categories: 
+  - "nikon-851-8"
+tags: 
+  - "austria"
+  - "motorcycle"
+  - "nikon-d300"
+  - "puch"
+  - "staircase"
+  - "street"
+  - "umbrella"
+  - "vienna"
+  - "wien"
+---
+<a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2008/20080724_082613_ps.jpg" target="_blank"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2008/20080724_082613_ps.jpg"/></a><br/><br/>These are images of yesterday, Thursday. As I have nothing for today yet and plenty of time at the moment (I'm currently on the train from Vienna to Carinthia, a four hours ride), I felt the temptation to use one of them for today. Well, I resisted. There is still time and I intend to get lucky 🙂<br/><br/>The Image of the Day was taken only seconds after I left my appartment, while still on the same floor. This is something I really believe in: One should never dismiss a subject on the ground that it has been used before. I had quite some Images of the Day made in this very staircase, and while I would not spend an hour shooting images here, a few every few days tend to be fun and the routine is productive as well.<br/><br/>The umbrella has not been arranged by me, it was simply there, someone seems to have forgotten it. As always when I have a new lens, I currently use the Nikon 85/1.8 almost exclusively, and as always with fast primes, I mostly play with shallow depth of field.<br/><br/>This image surprised me quite a lot in post-processing. The original out of the camera was dark and moody, but when I clicked "Auto" in Adobe Camera RAW, I found that I liked this light look much better. A comment on SmugMug, my photo hosting site, described this as "a very lovely shot", and indeed there is something serene in this shot that I did not anticipate originally. Well, some people may be disturbed when their images begin to acquire unintended sense, but I am a great believer in the process of discovery. I think it's honest. I believe that much of what we see as coherent in the work of other artists is only what has been arranged that way.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2008/20080724_085018_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2008/20080724_085018_ps.jpg" style="margin: 0pt 0px 0pt 10px; float: right;"/></a> Let me conclude with two more images, the first one being a morning image as well. This is another product of Puch, the Austrian manufacturer of bicycles, motorcycles and cars, that I have already written about or its products shown <a href="/search/label/Puch">more than once</a>. Just like the car <a href="/2008/07/641-series-of-dreams.html" target="_blank">recently</a>, these scooters were old-fashioned in the Seventies, but I remember having seen a lot of them in my youth, all of them in the posession of old men.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2008/20080724_163827_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2008/20080724_163827_ps.jpg" style="margin: 0pt 10px 0pt 0px; float: left;"/></a> The last image is from the afternoon. This is a park along the street where I work, and there are always flowers. I tried to get a nice distribution of verticals and asense of depth. Nothing special, but I like it.<br/><br/>The Song of the Day, "<a href="http://www.bobdylan.com/songs/truelove.html" target="_blank">True Love Tends to Forget</a>", is from Bob Dylan's 1978 album "<a href="http://www.amazon.com/Street-Legal-Bob-Dylan/dp/B00026WUAU" target="_blank">Street Legal</a>". Funnily enough this was the first Dylan album that I bought. Hear the Song on <a href="http://www.youtube.com/watch?v=xe2pY8tNJsA" target="_blank">YouTube</a>.

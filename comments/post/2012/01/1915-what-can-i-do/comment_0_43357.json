@@ -1,0 +1,7 @@
+{
+    "author": "Juha Haataja",
+    "author_url": "http://lightscrape.blogspot.com/",
+    "date": "2012-01-15 13:09:40",
+    "indent_level": 0,
+    "content": "Thanks! \n\nI searched for recipies on the net and <a href=\"http://machine-cycle.blogspot.com/2011/04/backup-blogger-blog-revisited.html\" rel=\"nofollow\">found</a> a script using the curl command. I modified the script heavily and it seems to work.\n\nHowever, the bash script requires writing the gmail address and password on the script, so it is not very secure. Maybe I'll fix this at some point. Would the cookie file be a way to do this? \n\nIn any case, now the script should be running once every week."
+}

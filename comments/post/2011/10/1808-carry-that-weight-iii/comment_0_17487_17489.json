@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2011-10-05 22:06:24",
+    "indent_level": 1,
+    "content": "Well, this little app offers quite some variations, but the size of the output is reduced to 1024 pixels on the longer side. I've tried to play around with an original image and a variation processed like this, overlaying the original with the comic sketch, using masks to partially reveal the original, etc, but the extreme difference in resolution makes it pretty difficult. I didn't try for long, I suppose I'd be able to come up with something useful, but in the end it was not worth it. I may come back to it though 🙂"
+}

@@ -1,0 +1,16 @@
+---
+title: "500 - The Half Of It, Dearie"
+url: /2008/02/500-half-of-it-dearie.html
+publishDate: Tue, 26 Feb 2008 18:04:00 +0000
+date: 2008-02-26 18:04:00
+categories: 
+  - "sigma-702-8-macro"
+tags: 
+  - "austria"
+  - "night"
+  - "nikon-d300"
+  - "ted-byrne"
+  - "vienna"
+  - "wien"
+---
+<a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2008/20080225_203228_ps.jpg" target="_blank"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2008/20080225_203228_ps.jpg"/></a><br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2006/20061012_122436_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2006/20061012_122436_ps.jpg" style="margin: 0pt 0px 0pt 10px; float: right;"/></a> So this is the half of it. We've come quite a long way together, have we? You most certainly don't remember <a href="/2006/10/1-after-grandma-has-gone.html" target="_blank">#1</a>, do you? Nobody was around then and I wrote for half a month into oblivion, until I finally got the first comment by (who else?) my good friend <a href="http://imagefiction.blogspot.com/" target="_blank">Ted Byrne</a>.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2006/20061030_181546_bw.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2006/20061030_181546_bw.jpg" style="margin: 0pt 10px 0pt 0px; float: left;"/></a> I got it for "<a href="/2006/10/17-not-in-color.html" target="_blank">17 - Not in Color</a>". Ted predicted that the ultra-wide would become my "normal" way to look at the world. And he certainly was right. It's not the only thing that I use (you have seen lots of images with the 70 lately), but I certainly feel at home with it 🙂<br/><br/>And now it's #500.<br/><br/>Am I weary? Yes, certainly. Blogging like mad puts a great amount of stress on you. You feel obligated. You are forced to be creative, even when in reality you are not. You take images, you write, you give your best, and for stretches of weeks you get no reaction at all. You certainly ask yourself, is it worth it?<br/><br/>But will I stop? Gosh, no!! This is only the half of it, and then probably not even a tenth. When you look at my SmugMug galleries (click at the image and you're there), then you see that I have used a five digit scheme for numbering, i.e. for this Image of the Day the caption in my SmugMug gallery is "00500 - The Half Of It, Dearie". Quite some headroom, huh?<br/><br/>Originally I wanted something with a number 500 in today's image, but as much as I looked, I couldn't find anything, thus I chose this piece of chrome. In a recent comment Ted called me "the master of the complex metallic reflections", so this is again for <a href="http://imagefiction.blogspot.com/" target="_blank">Ted Byrne</a>. Cheers!<br/><br/>The Song of the Day is "<a href="http://www.stlyrics.com/songs/f/fitzgeraldella7764/thehalfofitdearieblues276577.html" target="_blank">The Half Of It Dearie Blues</a>" by Ella Fitzgerald. It's from her Gershwin Songbook, and I could recommend that, but you really should have "<a href="http://www.amazon.com/Complete-Ella-Fitzgerald-Song-Books/dp/B0000046RN" target="_blank">The Complete Ella Fitzgerald Song Books</a>".

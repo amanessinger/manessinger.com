@@ -1,0 +1,7 @@
+{
+    "author": "Ted Byrne",
+    "author_url": "",
+    "date": "2007-10-31 03:34:00",
+    "indent_level": 0,
+    "content": "Liked your description of a beauty filter. I'd thought in the past that you were talking about what I call a glam filter, but apparently the recepies are a tad different. My glam filter comes from creating a copy layer of your final image. Then increase saturation by 60% and the saturation by 60%. Next apply a median filter followed by a Gaussian Blur to this layer. Now duplicate the layer yet again. Use the luminosity adjustment on the first copy, then a color adjustment to the second. Lower the opacity on each to taste. <br/><br/>The result is the classic misty blur Hollywood uses on starlets of a certain age. The luminosity opacity is the most powerful component of this sandwich. <br/><br/>I like your variation... shall use it.<br/><br/>Ted<br/><br/>BTW... powerful image. Kew-el yet mysterious."
+}

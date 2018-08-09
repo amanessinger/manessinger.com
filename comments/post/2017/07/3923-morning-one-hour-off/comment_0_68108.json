@@ -1,0 +1,7 @@
+{
+    "author": "Markus",
+    "author_url": "https://markus-spring.info",
+    "date": "2017-07-18 05:20:14",
+    "indent_level": 0,
+    "content": "Andreas, since quite some time I've set my cameras to Greenwich Time and do the correction when importing (with a self-written perl script, additionally writing the GPS coordinates from my logger - when available - into the raw file). Saved me quite some frustration, especially when traveling to other time zones."
+}

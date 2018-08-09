@@ -1,0 +1,18 @@
+---
+title: "994 - Requiem æternam"
+url: /2009/07/994-requiem-ternam.html
+publishDate: Sun, 05 Jul 2009 10:58:00 +0000
+date: 2009-07-05 10:58:00
+categories: 
+  - "tokina-11-162-8"
+tags: 
+  - "architecture"
+  - "church"
+  - "disaster"
+  - "italy"
+  - "longarone"
+  - "nikon-d300"
+  - "topaz-adjust"
+  - "vajont"
+---
+<a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090703_164728_ps.jpg" target="_blank"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2009/20090703_164728_ps.jpg"/></a><br/><br/>This is the church of Longarone, Italy. <a href="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;q=longarone&amp;t=h&amp;z=11&amp;iwloc=A" target="_blank">Longarone</a> is a small town north of Belluno, and if we hadn't seen a documentary on <a href="http://en.wikipedia.org/wiki/Arte" target="_blank">Arte</a> about an enormous landslide and flood catastrophe, that had occurred there in 1963, we probably never would have bothered to visit the place.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090703_165455_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090703_165455_ps.jpg" style="margin: 10pt 10px 10px 0pt; float: left;"/></a> And if we hadn't, we would never have seen one of the most interesting examples of modern sacred architecture. The church was built between 1966 and 1976 by the Italian star architect <a href="http://it.wikipedia.org/wiki/Giovanni_Michelucci" target="_blank">Giovanni Michelucci</a>, in order to remind of the more than 2000 victims of the disaster.<br/><br/>The church has a central room with circular rows of benches, that rise more like in a theater than in a traditional church. There are side rooms with the baptistery and an open room looking east to the valley of Vajont, from where the flood had come, that almost completely destroyed the old village of Longarone. In fact, the only building that had survived the event, was the steeple of the old church. For some time the old steeple was left standing beside the new church, but in the meantime it must have been torn down, it's not there any more.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090703_163438_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090703_163438_ps.jpg" style="margin: 10pt 10px 10px 0pt; float: right;"/></a> On top of the church, reached by a spiral ramp, there is another arena, and that's what you see in the Image of the Day, looking east. On the left you see a cleft in the mountains, that's the entrance to the valley of Vajont, that's from where death came in the form of an enormous wave of tens of millions cubic meters of water and mud.<br/><br/> The catastrophe of Longarone, better known under the name of Vajont, was not a freak accident of nature. It was a case of human error and reckless greed. There's more to that in the next entry.<br/><br/>The Song of the Day is the "<a href="http://en.wikipedia.org/wiki/Requiem" target="_blank">Requiem</a>" by <a href="http://en.wikipedia.org/wiki/Johannes_Ockeghem" target="_blank">Johannes Ockeghem</a>, maybe one of my most favorite Renaissance composers, not as well known as Machaut or Josquin des Prez, successor to the first, predecessor to the second, creator of the most wonderful "<a href="http://en.wikipedia.org/wiki/L%27homme_arm%C3%A9" target="_blank">L'Homme Armée</a>" mass of all times. I have several recordings of this "Requiem", and although I have no way to check from here in Carinthia, I believe the one that I've linked to is one of them. <a href="http://www.youtube.com/watch?v=wsPeCRDqcZc" target="_blank">YouTube</a> also has a version.

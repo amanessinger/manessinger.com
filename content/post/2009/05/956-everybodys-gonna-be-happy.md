@@ -1,0 +1,18 @@
+---
+title: "956 - Everybody's Gonna Be Happy"
+url: /2009/05/956-everybodys-gonna-be-happy.html
+publishDate: Tue, 26 May 2009 23:06:00 +0000
+date: 2009-05-26 23:06:00
+categories: 
+  - "nikon-70-300-vr"
+tags: 
+  - "advertising"
+  - "austria"
+  - "nikon-d300"
+  - "people"
+  - "sofobomo"
+  - "street"
+  - "vienna"
+  - "wien"
+---
+<a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090526_144749_ps.jpg" target="_blank"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2009/20090526_144749_ps.jpg"/></a><br/><br/>Today I'll present only one image. I've shot more, but I didn't process them. I was too busy creating the InDesign template for my <a href="http://www.sofobomo.org/" target="_blank">SoFoBoMo</a> book.<br/><br/>I'd say the layout is mostly done. The template contains master pages for all kinds of spreads that I may need: blank left / image right, image left / blank right, image left / image right, the blank pages containing caption and basic image data. There are also variants of the blank / image spreads, where the blank pages contain not only the caption for the image of the facing side, but also either a caption for the previous page or the next page. Thus spreads with images on both sides will have their captions on the previous, respectively following page, and there will never be two spreads with two images following each other.<br/><br/>The reason for this arrangement is, that I think, in most cases a single image per spread works best. In some cases though, images could relate to each other, and then there would be a semantic gain in putting them together on a spread. I don't know so far if I'll need all those combinations, but it was easy to set up in the template and thus I did.<br/><br/>Finally, the reason for the left / right variants is, that images frequently open up to one side more than to the other. Whatever text there is, even if it is only a caption on an otherwise blank page, should go to the side of the image where it is most open. This, btw, is also a principle that I apply to the thumbnail images on this blog. Browse back a few pages, you will always see that I place thumbnails in accordance with their directionality: the thumbnail images point inward. Well, most of the time at least 🙂<br/><br/>In the template, I have even defined text variables for "Author" and "Title of Book". They are preset to "Andreas Manessinger" and "TITLE OF BOOK", and when I create a new document from this template, I can change all occurrences of the title by setting a single variable.<br/><br/>The template contains the whole structure of the book, the introductory text filled with placeholder text. From here, creating a book should be extremely fast and easy.<br/><br/> What's next? Well, I guess tomorrow I'll begin writing the intro text into a separate text file that can later be placed. And then, I think I should be ready for the real thing: sequencing the images, maybe filling gaps by processing more of the candidates, or even by shooting some more images. That's the plan.<br/><br/>Oh yes, one more thing: In case you wonder about the text on the poster in the Image of the Day, it's an announcement of a political demonstration by the "Socialist Youth", the youth organization of our ruling Social Democratic Party. They demand "Luxury for all" and "Redistribution now".<br/><br/>The Song of the Day is "<a href="http://www.lyricsmode.com/lyrics/q/queens_of_the_stone_age/everybodys_gonna_be_happy.html" target="_blank">Everybody's Gonna Be Happy</a>" by The Kinks. I have it on a double-CD called "Ultimate Collection". See a video on <a href="http://www.youtube.com/watch?v=Z79vd3NpW7k" target="_blank">YouTube</a>.

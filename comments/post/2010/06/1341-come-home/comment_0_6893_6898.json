@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2010-06-16 23:13:09",
+    "indent_level": 1,
+    "content": "Colin, I use a process where I copy/merge the image to a new layer, blur that with 50px radius, apply a mask, and then paint into the mask with a soft brush. This way I can set accents by bringing out contrast and sharpness where I want the eye to go. It's a very intuitive process, but of course what remains of the blur is strongest along the edges."
+}

@@ -1,0 +1,7 @@
+{
+    "author": "Markus",
+    "author_url": "http://markus-spring.info",
+    "date": "2012-01-15 06:37:11",
+    "indent_level": 0,
+    "content": "Precise warning you articulated here, Andreas. I experienced pretty much the same when my first hoster terminated my account for alleged violation of their TOS by using too much ressources. I am glad that I had to switch, as the new hoster seems to be much more professional and the server less crowded, but the most glad I am about the fact that my backup strategy worked and - that I could restore. As they say: nobody is interested if you can do a backup, the only thing that counts is if you can do a restore...\nWhat I do is to daily rsync my web presence on my local NAS and get mysql backups by commandline magic. As I do test major modifications of the blog locally, I was aware of the quirks of the wordpress database.\nIn the end it really boils down to the fact that you either have to know your trade, or pay for it, or stay with one of the cost-free solutions (but there you are at the mercy of the company again)."
+}

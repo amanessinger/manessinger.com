@@ -1,0 +1,22 @@
+---
+title: "821 - Freezing III"
+url: /2009/01/821-freezing-iii.html
+publishDate: Sun, 11 Jan 2009 21:16:00 +0000
+date: 2009-01-11 21:16:00
+categories: 
+  - "sigma-201-8"
+tags: 
+  - "architecture"
+  - "austria"
+  - "carinthia"
+  - "color"
+  - "ice"
+  - "karnten"
+  - "nikon-d300"
+  - "snow"
+  - "sunrise"
+  - "twilight"
+  - "window"
+  - "winter"
+---
+<a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090111_083411_ps.jpg" target="_blank"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2009/20090111_083411_ps.jpg"/></a><br/><br/>Today I rose early, more by chance than by plan, and just as the sun went up, I had the sudden urge to dive a little deeper into yesterday's world of frost and ice, but this time with sunrise colors.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090111_072020_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090111_072020_ps.jpg" style="margin: 0pt 10px 0pt 0px; float: left;"/></a> The Image of the Day was taken through the open window of my study, all the other images standing in front of the apartment, in just that very glass structure, photographing through the glass, focused on the ice.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090111_072000_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090111_072000_ps.jpg" style="margin: 10pt 0px 10px 0pt; float: right;"/></a> I have a long-standing love affair with the Sigma 20/1.8, the lens used in all these images. Yes, it is extremely large, uses 82mm filters, has an awkward clutch mechanism for shifting between automatic and manual focus, yes, it vignettes wide open, yes it's even a tad soft wide open, BUT: it focuses as near as an inch from the front element and it has a wonderful bokeh. <br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090111_072446_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090111_072446_ps.jpg" style="margin: 0pt 10px 0pt 0px; float: left;"/></a> Not that bokeh would normally be relevant for wide-angles, but here it is. Go near enough, and you throw everything out of focus, even at f8, even at f11.<br/><br/>Half of these images were processed on the desktop in Carinthia, half here on the train to Vienna. As of this sentence, the train has made exactly half of the distance. The display on the laptop is, well, an average laptop display, maybe even below average. It's calibrated, but calibration will only go so far on a bad display. Still, for the purpose of this post, colors and tonalities of these images are reasonably similar.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090111_072255_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090111_072255_ps.jpg" style="margin: 10pt 0px 10px 0pt; float: right;"/></a> Were my purpose to produce a book or a series of prints for an exhibition, I'd certainly need to fine-tune colors in Vienna. That's one of the lessons learned in SoFoBoMo.<br/><br/>Here on the laptop, yesterday's images look simply horrid. I'll have to check when I'm in Vienna, but even if it's only the cheap LCD, in hindsight I consider yesterday's images definitely over-processed.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090111_072345_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090111_072345_ps.jpg" style="margin: 10pt 0px 10px 0pt; float: right;"/></a> In fact, today's images may well be considered over-processed as well, but even if they are so, they are in a much more pleasant way.<br/><br/> Basically I have used a look that's darker than what was visible at the time, but #1 priority was to preserve the highlights. I wanted the orange light at the horizon to be orange, and from there I have developed the series.<br/><br/>As for the Song of the Day, well, I wanted to keep the title "Freezing", because today's work is really an extension of what I did yesterday, but I think it would be boing to stick with the Philip Glass song, thus I've got another gem for you: "Cold, Cold, Cold" from Dr. John's 1973 album "In the Right Place". Hear it on <a href="http://www.youtube.com/watch?v=gW7JWdYkk8I" target="_blank">YouTube</a>. No lyrics though.

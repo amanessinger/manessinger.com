@@ -1,0 +1,7 @@
+{
+    "author": "Andreas",
+    "author_url": "",
+    "date": "2008-10-02 16:51:00",
+    "indent_level": 0,
+    "content": "Sure. An action that creates three Hue/Saturation layers.<br/><br/>#1 is in Soft Light mode and blended into the darker tones (split white blend-if slider, leave high part at max, put low part at min = full influence at black, none at white), #2 is in Multiply and blended into the light tones (same as other, but now split the black slider and pull one up to max). #3 is in Soft Light as well, but without blending changes. <br/><br/>All have three have Lightness at 30 or 40% for Soft Light and 50% for Multiply, and all three have Saturation at 20-30%. These are the settings from my action, you may have to vary them. Paint into the masks as you see fit. Now add a cooling filter and a vignette to darken and cool the borders. Well, something like that 🙂<br/><br/>What these Saturation layers do is pushing saturation without burning out channels. Try it. I use these very often lately, they work well. <br/><br/>Hmm ... of course you have to really, really like colors 🙂"
+}

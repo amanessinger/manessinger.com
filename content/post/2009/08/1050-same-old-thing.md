@@ -1,0 +1,14 @@
+---
+title: "1050 - Same Old Thing"
+url: /2009/08/1050-same-old-thing.html
+publishDate: Fri, 28 Aug 2009 16:57:00 +0000
+date: 2009-08-28 16:57:00
+categories: 
+  - "sigma-1502-8-macro"
+tags: 
+  - "austria"
+  - "insect"
+  - "macro"
+  - "nikon-d300"
+---
+<a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090828_113826_ps.jpg" target="_blank"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2009/20090828_113826_ps.jpg"/></a><br/><br/>This is just more of the same, but really, I like it 🙂<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090828_120640_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090828_120640_ps.jpg" style="margin: 10pt 10px 10px 0pt; float: left;"/></a> Today I returned to the place with the cables and the dragonflies. They seem to love the heat, and they seem to be pretty unimpressed by photographers and big macro lenses.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090828_120245_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090828_120245_ps.jpg" style="margin: 10pt 10px 10px 0pt; float: right;"/></a> I could have gone on for hours, but in the end there are only so many perspectives that you can use, and some of them are impossible for me without being able to fly myself.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090828_113711_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090828_113711_ps.jpg" style="margin: 10pt 10px 10px 0pt; float: left;"/></a> It's really interesting: macro photography is so much fun with this lens, it completely crosses my original plan of abusing it as a street lens. I'm stubborn though 🙂<br/><br/> The images were all taken with the Sigma 150/2.8 Macro and post-processing is about the same as in "<a href="/2009/08/1048-clown-with-funny-nose.html" target="_blank">1048 - A Clown With A Funny Nose</a>": local contrast enhancements of the sharp parts with <a href="http://www.topazlabs.com/detail/" target="_blank">Topaz Detail</a> and <a href="http://www.topazlabs.com/adjust/" target="_blank">Topaz Adjust</a>, taking the presets that match best, Hue/Saturation layers in various blending modes to push saturation without burning out color channels, sometimes a vignette, basically that's it.<br/><br/>The Song of the Day is "<a href="http://www.lyricsmode.com/lyrics/s/streets/same_old_thing.html" target="_blank">Same Old Thing</a>" by The Streets. I have it on their 2002 album "Original Pirate Material", an album that I got from <a href="/2007/12/425-michael-and-happy-fish.html" target="_blank">Michael</a> as a birthday present. Hear it on <a href="http://www.youtube.com/watch?v=eGAxo4O47XM" target="_blank">YouTube</a>.

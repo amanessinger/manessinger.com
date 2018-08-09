@@ -1,0 +1,17 @@
+---
+title: "974 - In The Garden"
+url: /2009/06/974-in-garden.html
+publishDate: Sun, 14 Jun 2009 20:15:00 +0000
+date: 2009-06-14 20:15:00
+categories: 
+  - "tokina-11-162-8"
+tags: 
+  - "architecture"
+  - "castle"
+  - "italy"
+  - "miramare"
+  - "nikon-d300"
+  - "park"
+  - "sea"
+---
+<a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090613_111100_ps.jpg" target="_blank"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2009/20090613_111100_ps.jpg"/></a><br/><br/>It's Sunday evening, I'm on the train to Vienna, and here are the images from our second day in Italy.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090613_110735_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090613_110735_ps.jpg" style="margin: 10pt 10px 10px 0pt; float: left;"/></a> After breakfast I went swimming, and at 10am we left the hotel for castle <a href="http://en.wikipedia.org/wiki/Miramare" target="_blank">Miramare</a>. <a href="http://en.wikipedia.org/wiki/Maximilian_I_of_Mexico" target="_blank">Maximilian</a> had a strong interest in botany, and the castle gardens are lush evidence of his passion.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090613_110523_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090613_110523_ps.jpg" style="margin: 10pt 10px 10px 0pt; float: right;"/></a> The castle itself has an interesting ground plan. These two images actually show the same building. In one it looks like a sturdy tower, almost like a cube, while in the other you see the long front that faces the harbor.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090613_112258_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090613_112258_ps.jpg" style="margin: 10pt 10px 10px 0pt; float: left;"/></a> Originally all ways in the park seem to have been paved in this typical Italian way with small stones, but today most ways are bituminized.<br/><br/>There are loads of tourists, but the area is so big, that they blend in, and you have hardly a problem getting images without them. Apart from that, the whole park is a paradise for cats, thus you better have some cat cookies with you. Of course we had 🙂<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090613_115644_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090613_115644_ps.jpg" style="margin: 10pt 10px 10px 0pt; float: right;"/></a> The last image looks back from the park, over the harbor of Grignano, to the shore where just right from the middle, you can see the tower in front of our hotel, the tower with the lift down to the beach, the tower from where I took yesterday's images.<br/><br/> It was extremely hot (well, at least that was my view) and after our visit to the park of Miramare, we simply drove home. In Carinthia I went swimming one more time, and we finally concluded the day on our balcony, sipping delightfully cool Prosecco 🙂<br/><br/>The Song of the Day is "<a href="http://www.lyricsmode.com/lyrics/b/bob_dylan/in_the_garden.html" target="_blank">In The Garden</a>" from Bob Dylan's 1980 album "Saved". Hear it on <a href="http://www.youtube.com/watch?v=AfQdnmlQSQo" target="_blank">YouTube</a>.<br/><br/>EDIT: After much consideration, I have just replaced the Image of the Day with a slightly warmer version.

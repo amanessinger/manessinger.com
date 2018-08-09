@@ -1,0 +1,7 @@
+{
+    "author": "Juha Haataja",
+    "author_url": "http://lightscrape.blogspot.fi/",
+    "date": "2015-03-18 17:11:34",
+    "indent_level": 0,
+    "content": "Well, I think this is a case where an algorithm developed by a computer scientist might do quite a nice job, much better than the human eye: modeling the physics of water surface and reflection, solving an inverse problem, putting the pieces in right order, and showing what the original shape was. I'm not sure whether this would be easier or harder than, e.g., Optimization Methods for Asteroid Lightcurve Inversion.\n\nAs a photograph this attracts the human eye, though. \n\nCome to think about it, maybe there would be a market for an instagram-type filter producing this effect. Developing such an app would be much easier than solving the inverse problem."
+}

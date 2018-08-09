@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2010-06-14 11:27:47",
+    "indent_level": 1,
+    "content": "Thanks. The B+W conversion is with Photoshop's B+W adjustment layer. Normally I use two layers (here \"Blue filter\" and \"High Contrast Red\"), and in the lower's mask I paint with black. In this image the river is from the blue filter, the rest of the scene red. You just have to try, see what the filters do for the contrasts in the various parts of the image. I rarely use more than two filters, but is has happened.\n\nThen I select the whole image and \"Edit / Copy Merged\", blur the result with 50px radius, add a mask, use a big (~1000-1500px), soft (100%) brush at 100% flow and set the main accents, reduce flow to 20% and maximize the brush to 2500px. With that I work out more of the underlying scene, and in the end I reduce the result to 70% opacity. Normally the blurring has taken away the darkest dark and the lightest light, thus I add a \"Levels\" adjustment.\n\nIt's fast. Some minutes, and nothing is destructive. It's all done in masks, you can always step back."
+}

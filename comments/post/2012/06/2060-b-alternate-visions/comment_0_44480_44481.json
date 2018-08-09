@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2012-06-09 22:27:26",
+    "indent_level": 1,
+    "content": "Two options: \n\nIn \"Develop\" you can go to \"Snapshots\" in the left panel. Click \"+\" to create a snapshot.\n\nThe other way is to create a Virtual Copy. You can do that from the context menu of the image in \"Library\". Basically it's just a separate set of processing instructions for the original image."
+}

@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2011-03-23 21:09:40",
+    "indent_level": 0,
+    "content": "All the images on the blog should have EXIF data. Firefox and Chrome have plugins available for displaying EXIF data, Opera has it built-in. Install a plugin if necessary and use the context menu of the image. It will show you aperture, focal length, shutter speed an ISO. All images on this page were taken at 8 mm."
+}

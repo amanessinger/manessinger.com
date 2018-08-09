@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2012-05-06 20:25:55",
+    "indent_level": 1,
+    "content": "You can use \"mogrify\" (yes, it's a weird name) as a stand-alone program, but the whole point of LR/Mogrify 2 is to integrate it into Lightroom, to extend Lightroom."
+}

@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2011-04-27 14:07:19",
+    "indent_level": 1,
+    "content": "Selectively increase contrast in the background. Leave the lightest parts alone, make the darker parts much darker. Use either \"Luminance\" as blending mode or desaturate the background. You can also do that selectively. What you absolutely have to avoid is a deep blue of the background. \n\nOf course this comes at a price. Out of the camera a hazy or foggy background has not much detail. Increasing contrast also dramatically increases noise. With a far forest in the background this may not be that visible and you may get away with it. Just don't overdo it."
+}

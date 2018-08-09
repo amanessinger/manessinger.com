@@ -1,0 +1,21 @@
+---
+title: "1074 - He's Funny That Way"
+url: /2009/09/1074-hes-funny-that-way.html
+publishDate: Tue, 22 Sep 2009 18:27:00 +0000
+date: 2009-09-22 18:27:00
+categories: 
+  - "sigma-1502-8-macro"
+tags: 
+  - "architecture"
+  - "austria"
+  - "bicycle"
+  - "nikon-d300"
+  - "people"
+  - "playground"
+  - "sculpture"
+  - "street"
+  - "tool"
+  - "vienna"
+  - "wien"
+---
+<a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090921_082922_ps.jpg" target="_blank"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2009/20090921_082922_ps.jpg"/></a><br/><br/>It's stupid. I shouldn't do that. I really should work on my new web site.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090921_162248_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090921_162248_ps.jpg" style="margin: 10pt 10px 10px 0pt; float: left;"/></a> But then, how could I have passed this playground without noticing the kids sitting in the cage, on top of the goal? How could I not have taken the image, how could I have restrained myself from processing and uploading it?<br/><br/>Or the tools of that chimney sweeper, whom I saw in the morning, vanishing in a shop, leaving them out on the street, prey to my Sigma 150/2.8 Macro? <br/><br/>Yes, I use the 150 again and it's pure pleasure. It's an awkward lens in many ways, but once you get accustomed to the fact that you are always too near for what you see, once you have found out that even then it sometimes pays off to get nearer, once you have acknowledged how sharp it is wide open, once you have begun to see in this peculiarly tiny frame: suddenly it feels natural like any other lens. Well, heavier maybe 🙂<br/><br/><center><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090921_081644_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090921_081644_ps.jpg" style="margin: 10pt 10px 10px 0pt;"/></a><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090921_081612_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090921_081612_ps.jpg" style="margin: 10pt 10px 10px 0pt;"/></a></center><br/><br/>So often I see people ask on forums what lenses they should buy for good bokeh, and then they get all sorts of answers from 50/1.4 to - of course - 85/1.4, but what so many people don't recognize, is that near focus beats wide aperture all the time. That's why this lens is so useful and that's why the Sigma 70/2.8 Macro wipes the floor with the Nikon 85/1.8, although they have so similar focal lengths and although the are similarly priced.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2009/20090921_083447_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2009/20090921_083447_ps.jpg" style="margin: 10pt 10px 10px 0pt; float: right;"/></a> Yesterday was one of these days. I have more images. At least one or two, and each of those shown here would have made it for Image of the Day on a normal day. I relish those days, even though they make so much work and even though it is so stupid and I should work on my server 🙂<br/><br/> The bicycle made it today. I think, yeah, that guy's really funny. I saw him, and for whatever reason, he reminded me of a clown. There was something in the pose, and of course for me there is something in it that you can't see: he had an orange saddle (you see the color, but you wouldn't have seen what it is) and he has red handles on the handlebar, a handlebar that reminded me of the cap of a jester. Well, it was impossible to fully isolate this guy, thus you only see what you see. For the rest you have to believe me. He's still funny enough I think, isn't he?<br/><br/>The Song of the Day is "<a href="http://www.lyricsmode.com/lyrics/b/billie_holiday/hes_funny_that_way.html" target="_blank">He's Funny That Way</a>" by Billie Holiday. I have it in my cheap collection of 10 CDs with early Billie Holiday recordings. I have it by Ella as well, but Billie is what I found on <a href="http://www.youtube.com/watch?v=A-2g7M8cMWs" target="_blank">YouTube</a>, thus she makes it.

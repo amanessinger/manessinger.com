@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2012-06-26 08:50:54",
+    "indent_level": 1,
+    "content": "It's directly in Adobe Camera RAW. There you have the \"Clarity\" slider. In Photoshop I would make two different versions from RAW, one with negative clarity for the blurry background and one with positive clarity for the sharp foreground. But of course there are other possibilities in Photoshop as well, for instance using Topaz Detail for the foreground and a slight Lens blur for the background. Of course you'd want to eliminate the foreground scissors from the layer than you then blur, because otherwise you get the blurred scissors bleeding into the background. But that is another topic.\n\nThe Lightroom method is quick and seemingly goof enough. That's what I wanted to demonstrate."
+}

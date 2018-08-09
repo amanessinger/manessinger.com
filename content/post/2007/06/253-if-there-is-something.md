@@ -1,0 +1,16 @@
+---
+title: "253 - If There Is Something"
+url: /2007/06/253-if-there-is-something.html
+publishDate: Sun, 24 Jun 2007 06:21:00 +0000
+date: 2007-06-24 06:21:00
+categories: 
+  - "sigma-1502-8-macro"
+tags: 
+  - "austria"
+  - "black-and-white"
+  - "carinthia"
+  - "karnten"
+  - "macro"
+  - "nikon-d200"
+---
+<a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2007/20070624_014105_ps_bw.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2007/20070624_014105_ps_bw.jpg"/></a><br/><br/>The first notion I had of yesterday was that of a big, menacing cloud right above us. It was already drizzling, I could take two images from the not-yet rainy far western horizon, they looked good in reality, sunny mountains, dark clouds, but somehow I managed to spoil them. Only a minute later the rain grew stronger and obscured everything.<br/><br/>Well, the day began bad and kept to its promise, so I used it mainly to get up to present with my blog, hang around in other people's blogs, etc. In the evening we had concert tickets for <a href="http://www.trigonale.com/trigonale/" target="_blank">Trigonale</a>, Carinthia's festival of Old Music. I generally love music from the late Middle Ages (basically beginning with the French Trouvère/Troubadour music) through Renaissance and Baroque, the Classics, up to the present. This festival is mostly about baroque music, and over the years it has got quite a reputation. "Names" like Jordi Savall don't play everywere after all.<br/><br/>The concert was in Sankt Veit. We left home a full hour earlier, but it took us ages to get through Klagenfurt's road repair sites, and when we finally arrived, it was impossible to get a parking lot within a reasonable distance. We were fed up and decided to go to an Italian restaurant in Klagenfurt instead.<br/><br/>All the while the rain went on, and when I was back home I still had no Image of the Day, but at least I had an idea. I wanted to take a chess board and set up something dramatic with flashes and so on. Well, after some searching I found out that I have no chess board in Carinthia any more. I did some experiments with matches, then some with some screws, but nothing convinced me at all. It was now well beyond midnight and I finally grew nervous. Of course I could have taken an image from the archives, but I really didn't want to. I knew, if there is something even remotely usable, then I can do it. Finally I found this ... thing. It's some carved, wooden object without any discernable use that people hang on walls.<br/><br/>The Sigma 150/2.8 macro and my macro flash kit did the trick.<br/><br/>"<a href="http://www.amazon.com/Roxy-Music/dp/B0000256KG" target="_blank">Roxy Music</a>" by the band of the same name is one of the most glorious debut albums of all times. It's timelessly modern music, and this is very much due to the fact that Brian Eno was part of Roxy Music on their first two albums. This is the same Brian Eno that fostered The Talking Heads, another band of timeless modernicity. <br/><br/>"<a href="http://www.lyricsfreak.com/r/roxy+music/if+there+is+something_20118969.html" target="_blank">If There Is Something</a>" from that 1972 debut album is the Song of the Day.

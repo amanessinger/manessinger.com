@@ -1,0 +1,7 @@
+{
+    "author": "Markus",
+    "author_url": "http://markus-spring.info",
+    "date": "2012-01-15 21:43:12",
+    "indent_level": 1,
+    "content": "Having passwords in clear text in a file is obviously not the best idea, especially if the disk is not fully encrypted. Of course the script could be modified to require the password entry on the commandline, but then it won't run on its own, started from a scheduler.\n\nA classic dilemma, where you have to choose between security of the data, security of the password or convenience."
+}

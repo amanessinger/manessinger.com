@@ -1,0 +1,7 @@
+{
+    "author": "Myn.pheos",
+    "author_url": "http://myn-graphica.blogspot.com/",
+    "date": "2011-09-02 10:27:57",
+    "indent_level": 2,
+    "content": "Interesting. But I think the DNG converter compresses files it creates. And it can also encapsulate the original file and generate a thumbnail. I've tried to convert compressed .PEF to .DNG and the new file is a few kB smaller."
+}

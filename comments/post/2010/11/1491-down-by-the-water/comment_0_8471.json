@@ -1,0 +1,7 @@
+{
+    "author": "bob",
+    "author_url": "",
+    "date": "2010-11-17 15:49:20",
+    "indent_level": 0,
+    "content": "On Computer crashing. Suggest re-plugging the C: drive, the Sata edge connectors are crap. Also, might check the CPU temperature, thermal interface degrades with time, change thermal grease and re-seat the cooler, cooling fins also clog with dust, periodically blow all dust from the entire computer including inside the power supply. These are all designed in failure points."
+}

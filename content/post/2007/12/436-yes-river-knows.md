@@ -1,0 +1,17 @@
+---
+title: "436 - Yes, The River Knows"
+url: /2007/12/436-yes-river-knows.html
+publishDate: Mon, 24 Dec 2007 02:28:00 +0000
+date: 2007-12-24 02:28:00
+categories: 
+  - "sigma-702-8-macro"
+tags: 
+  - "austria"
+  - "carinthia"
+  - "landscape"
+  - "nikon-d300"
+  - "river"
+  - "rural"
+  - "winter"
+---
+<a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2007/20071223_152151_ps.jpg" target="_blank"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2007/20071223_152151_ps.jpg"/></a><br/><br/>It is still the Sigma 70/2.8 that I use, and I still have not shot any typical macro image. The Image of the Day is again a landscape. Who said, you can't do epic landscapes with a 70? There is even a swan in this image 🙂<br/><br/>I've taken it at f8, 1/250s and ISO 200. Mind, this lens is not stabilized, so you need a pretty high shutter speed if you don't use a tripod. But when you keep it steady, Goodness, this lens is as sharp as it gets, and it easily outperforms the resolution of the D300's 12.2 megapixel sensor.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2007/20071223_150031_ps_bw.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2007/20071223_150031_ps_bw.jpg" style="margin: 0pt 0px 0pt 10px; float: right;"/></a> From tranquil late-afternoon landscape to high-tension black and white pattern: I found this stack of lumber on my way to the river in the first image. It's again f8, this time at 1/400s. For the toning I have used a gradient mapping. That's something I have never done before, the result is a little bit random, but I like it and will probably dig a little deeper that way.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2007/20071223_152719_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2007/20071223_152719_ps.jpg" style="margin: 0pt 10px 0pt 0px; float: left;"/></a> The next one is the most "macro" as it gets today. Again f8, 1/100s, but this time I went pretty near. Tension again, and a little morbidity.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2007/20071223_151826_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2007/20071223_151826_ps.jpg" style="margin: 0pt 0px 0pt 10px; float: right;"/></a> The last one is a hut at the side of the street. It belongs to a farm, and this is not the first image I've taken from it. This time I did it mostly as a resolution test. The grain of the wood is a pretty good indicator for that, and again the result is tack sharp.<br/><br/>That's it for today. Four images, four genres, four good uses for a macro lens, and again I feel what I always feel when I learn to use a new prime: It's incredibly exciting. You have a fixed frame, a fixed perspective, very simple conditions, and nothing sparks creativity as much as that. All these restrictions come together, only to set you free. Try that with a zoom!<br/><br/>The Song of the Day is "<a href="http://www.lyricsfreak.com/d/doors/yes+river+knows_20042778.html" target="_blank">Yes, The River Knows</a>" from the much underrated 1968 Doors album "<a href="http://www.amazon.com/Waiting-Sun-Doors/dp/B000MCIBB6" target="_blank">Waiting for the Sun</a>". See a video on <a href="http://www.youtube.com/watch?v=BIVTZhz27tE" target="_blank">YouTube</a>.

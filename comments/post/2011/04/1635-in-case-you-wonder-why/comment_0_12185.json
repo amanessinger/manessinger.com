@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2011-04-10 09:08:23",
+    "indent_level": 0,
+    "content": "I have set it up like you. \n\nThe funny thing is only, here we have a battle that is lost. No further defense possible. I've thought a little about it since I wrote this post, and fact is, not even the token is required. \n\nUse combinations of exotic words like \"exquisitely elaborate\", or even the exotic words alone. How many \"exquisitely\" do you have on your blog? \n\nWorse. It suffices that the word is rare. Make a lookup for word/domain and store the number. If you have increased the number by one, your comment is very likely through. If the blog is big and the number of hits was low, statistics are on your side, and this game is about probability anyway. It does not hurt the spammer to be wrong in a small percentage of cases.\n\nOnce you do the lookup first, you can play all kinds of variants on this. Just consistently use British spelling on an American blog. It will decrease the number of hits and increase your probability to have been the cause for an increase after a few days. Throw in some French or Spanish words. And so on and so forth. And all that can easily be done programmatically.\n\nAnd here we are: No trace left. Your only defense would be to block people with a fancy style 🙂"
+}

@@ -1,0 +1,7 @@
+{
+    "author": "Markus",
+    "author_url": "http://markus-spring.info",
+    "date": "2012-01-15 11:17:54",
+    "indent_level": 1,
+    "content": "Ove, have a look at http://wordpress.org/extend/plugins/wp-db-backup/\nThis allows you to get the backup sent automatically to an email address of your choice. An extra gmail account for that purpose should work fine. I used it for a year until my data - including piwik statistics - grew too large to be mailed."
+}

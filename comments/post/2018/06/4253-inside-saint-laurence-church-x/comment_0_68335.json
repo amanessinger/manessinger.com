@@ -1,0 +1,7 @@
+{
+    "author": "Ladislav Petrus",
+    "author_url": "",
+    "date": "2018-06-11 19:52:07",
+    "indent_level": 0,
+    "content": "Hello Andreas,\n\nConcerning the static cms - if you have time, take a look at grav (https://getgrav.org/).  It is not quite static html, but there is no database and content is stored in markdown files.\n\nBest regards, Ladislav"
+}

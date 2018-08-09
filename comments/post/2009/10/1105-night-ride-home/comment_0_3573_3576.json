@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2009-10-23 08:02:24",
+    "indent_level": 1,
+    "content": "I don't use Lightroom. Probably I should, maybe I'll try the public beta or Lightroom 3, but so far I use <a href=\"http://photools.com\" rel=\"nofollow\">IMatch</a> as image database and Photoshop CS3 as editor. In soem cases I do the RAW conversion not in Photoshop but in <a href=\"http://www.dxo.com\" rel=\"nofollow\">DxO</a>. Here I did, at high ISO like 1800 in this case, DxO delivers better results. What makes for the graphic look of this image, is the combination of Topaz Detail (Interior Strong Detail preset), overlayed with a neutral blur layer (30px radius in screen mode, 5px in multiply mode, balanced with varying opacities to give the same overall tonality). \n\nThis is a combination that I use quite often. They both cancel each other to a degree, but what remains is a sense of depth, combined with snap. Normally you would add a levels adjustment after that, maybe some saturation before. I've done both here."
+}

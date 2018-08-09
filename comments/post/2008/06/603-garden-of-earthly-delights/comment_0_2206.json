@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2008-06-09 11:06:00",
+    "indent_level": 0,
+    "content": "Jeff,<br/><br/>You can always \"View Source\" in your browser. Basically I put an <b>&lt;a&gt;</b> around the <b>&lt;img&gt;</b>, with a \"href\" that points to the SmugMug page and a \"target='_blank'\". The target causes the browser to open a new window or tab."
+}

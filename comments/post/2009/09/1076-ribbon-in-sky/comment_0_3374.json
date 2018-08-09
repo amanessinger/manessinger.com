@@ -1,0 +1,7 @@
+{
+    "author": "Andreas",
+    "author_url": "",
+    "date": "2009-09-25 04:44:21",
+    "indent_level": 0,
+    "content": "In just a few minutes I will start the upload of the images. It will run over the weekend from here in Vienna. <br /><br />Then I&#39;ve to select a display option for the big sizes, decide upon a URL schema that leaves me the flexibility to change the internal workings later, export the blog, change links programmatically, import into a test blog, see if it works, post a maintenance message on the real blog, delete all other posts on the real blog and import the changed export file.<br /><br />Then I can create a minimal facade for manessinger.com, in the beginning without galleries, take the name photography.andreas-manessinger.info away from SmugMug and let it point to the same static IP as manessinger.com, let everything settle for a day, and finally I can tear down the SmugMug site.<br /><br />Should be possible over the weekend 🙂"
+}

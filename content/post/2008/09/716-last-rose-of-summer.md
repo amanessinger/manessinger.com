@@ -1,0 +1,20 @@
+---
+title: "716 - The Last Rose of Summer"
+url: /2008/09/716-last-rose-of-summer.html
+publishDate: Mon, 29 Sep 2008 01:34:00 +0000
+date: 2008-09-29 01:34:00
+categories: 
+  - "nikon-18-200-vr"
+tags: 
+  - "austria"
+  - "carinthia"
+  - "fence"
+  - "karnten"
+  - "lake"
+  - "landscape"
+  - "nikon-d300"
+  - "rural"
+  - "summer"
+  - "tree"
+---
+<a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2008/20080928_160844_ps.jpg" target="_blank"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2008/20080928_160844_ps.jpg"/></a><br/><br/>Today, after voting, I went swimming. It was a warm, sunny Sunday afternoon and the water was ... not. In fact it was quite cold, colder than I had expected, certainly below 18 centigrades, 17, 16 maybe, but I really had wanted to do it one more time before winter.<br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2008/20080928_151216_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2008/20080928_151216_ps.jpg" style="margin: 0pt 10px 0pt 0px; float: left;"/></a> As you may know by now, the election had a quite unexpected result, the resurrection of Jörg Haider. Apart from that everything is very much as expected. Not pleasant, but expected. <br/><br/>One could hope that the Social Democrats and the Conservatives, having suffered their worst defeat, will turn to constructive work now, leaving populism to the populists, but I fear that is not more than a dream. <br/><br/><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2008/20080928_161029_ps.jpg" target="_blank"><img alt="" border="0" src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2008/20080928_161029_ps.jpg" style="margin: 0pt 0px 0pt 10px; float: right;"/></a> Populism is really a downward spiral. First there comes a gifted populist like Haider in Austria, and he teaches how to exploit the worst in men, envy, fear and egoism. Then, seeing his initial success, everybody turns in and tries to copy that style, and after a while there is nobody left who would analyze complex situations and apply the fitting complex solutions.<br/><br/>Simple solutions is what people seemingly want and turn to in a complex world, simple solutions is what they get, it's only that they don't solve anything, but even that may be too complex to realize. It's depressing and that's where we've got. <br/><br/>At least the local elections in Bavaria, Germany have turned out much better. There a single party, the conservative CSU, had held the country in its grasp for sixty years, and now that is over and done with. They are still the strongest party by far, but they won't be able to rule without going into a coalition. It's pretty much the end of an era there, and the important thing is, that the populist course that the party had increasingly taken in the last years was not honored.<br/><br/>Now that is one of the things that are hard to understand for Americans, this left/right dichotomy and what it means to us in Europe. Here it is not so much the difference between a policy of regulating things versus letting the economy work it out, here it is much a case of openness versus xenophobia, and sadly although it should be a case of reason against simple-minded populism, reason seems to have lost long ago. Populism, this poison for the mind, this stupid tactic of blaming everything to some scapegoats and of always bleating out simple, wrong answers, populism has become the prevalent form of politics. As if the world were simple!<br/><br/>Well, enough of that. The Song of the Day is a beautiful rendition of Thomas Moore's "<a href="http://www.bartleby.com/41/487.html" target="_blank">The Last Rose of Summer</a>", sung by the great Nina Simone on disc one of the four CD collection "<a href="http://www.amazon.com/Four-Women-Simone-Philips-Recordings/dp/B00006ZU6B" target="_blank">Four Women: Nina Simone Philips Recordings</a>". Hear it on <a href="http://www.youtube.com/watch?v=hAOTriJerII" target="_blank">YouTube</a>.

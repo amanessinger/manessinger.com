@@ -1,0 +1,15 @@
+---
+title: "111 - Tough Times for Democracy"
+url: /2007/02/111-tough-times-for-democracy.html
+publishDate: Fri, 02 Feb 2007 04:17:00 +0000
+date: 2007-02-02 04:17:00
+categories: 
+  - "sigma-10-20"
+tags: 
+  - "architecture"
+  - "austria"
+  - "nikon-d200"
+  - "vienna"
+  - "wien"
+---
+<a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2007/20070201_120736_ps.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2007/20070201_120736_ps.jpg"/></a><br/><br/>It is already Friday morning now. I fell to bed yesterday but thankfully woke up early. Well, I had two heavily manipulated images, and I couldn't really decide between them. I finally settled for this one, showing our <a href="http://maps.google.com/?ie=UTF8&om=1&amp;z=16&ll=48.208002,16.357999&amp;spn=0.01277,0.016136&t=h" target="_blank">parliament</a> on Ringstraße. On the map it is the green building in the center, between Rathausplatz, Schmerlingplatz, Doktor-Karl-Renner-Ring and Reichsratsstraße.<br/><br/>I have been there yesterday noon. It was cloudy and light was perfectly flat. So was the original image. Looks like I'm walking on Ted Byrne's turf here. Hmm ... funny, the image somehow grew that way almost by itself and I didn't even realize it until I darkened the sky. Must have something to do with our discussion of his "<a href="http://imagefiction.blogspot.com/2007/01/limit-less.html" target="_blank">Limit-less</a>" 🙂<br/><br/>The other image I talked about is a Lensbaby shot, again of a shop's window in Neubaugasse like yesterday's Image of the Day. I mention it mainly, because this is a perfect example of how in these abstract shots it is possible to hunt all around the color wheel and drive the image exactly where you want it. The original was all orange/red of course.<br/><br/>The New York Times has an <a href="http://www.nytimes.com/2007/02/02/us/02voting.html?pagewanted=2&ei=5094&en=9f5342a78ef82375&hp&ex=1170478800&partner=homepage" target="_blank">article</a> about Florida's prospective move away from their current voting machines. The problem is, that in a perfectly American way they try to replace a failed technical solution with another. <br/><br/>At the risk of being patronizing, sorry guys, but what is wrong with counting manually? As I am working for Vienna's government, I had the honor of being one of those to conduct elections at one of the local polling stations. Tough work, but very satisfying too. We always closed at 5pm and invariably had an end result ready for the evening news at 7:30pm. And all that with the perfect certainty that no vote could have been forgotten and nobody would have been able to manipulate the results. Even better, if there ever would have been any doubt, the counting could have been done again. A perfect system. <br/><br/>In light of recent troubles with voting machines in the Netherlands and in the US, where severe security holes existed, that would have allowed manipulations, why not simply go back to something that is known to work? C'mon, this is not any question, this is about Democracy after all.

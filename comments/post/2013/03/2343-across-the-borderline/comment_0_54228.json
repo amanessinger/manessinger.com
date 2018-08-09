@@ -1,0 +1,7 @@
+{
+    "author": "Elvis Rowe",
+    "author_url": "http://www.elvisrowephotography.com",
+    "date": "2013-03-19 08:27:20",
+    "indent_level": 0,
+    "content": "Andreas I feel your pain with regards to the Google Reader shutdown.  A couple other alternatives for you to consider.\n\nThe first is Newsblur.  It is similar to Google Reader and doesn't require an always on plugin/app running in the background in order to get updates to your feeds.  The disadvantage to Newsblur is that the free subscription only allows up to 64 feeds.  If you're under than then no harm.  Over and the developers ask for a minimum of $1/month.\n\nNoticing that you are running your own blog on what appears to be a type of hosting package, you may want to look into Tiny Tiny RSS.  It is a small web application that you install on your hosting server, similar to, but not as easy as, WordPress.  I was able to get Tiny Tiny RSS up and running on my hosting account in few hours, would have been sooner if I wasn't such a perfectionist.  This is idea as you aren't reliant on a provider to provide the RSS services for you, yet you are at the mercy of the developer.  TTRSS also has an Android client.\n\nI, as well as thousands of others, are with you as well in looking for a new RSS solution.  I have stopped using Reader entirely and I'm saddened to be removing it as one of my start tabs in Chrome, but I hope that these suggestions give you a couple more options to explore."
+}

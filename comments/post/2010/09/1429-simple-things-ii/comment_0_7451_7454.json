@@ -1,0 +1,7 @@
+{
+    "author": "andreas",
+    "author_url": "https://manessinger.com/",
+    "date": "2010-09-12 23:41:21",
+    "indent_level": 1,
+    "content": "Rick, can it be that you really suffer from pixel peeping? There is noise in those areas, but even at the maximum size that I let you see (1200 pixels at the longest edge) , the noise is already invisible. Actually the image looks very good when seen in Photoshop at 50%, and that's about what you see when you print it. With today's file sizes there is no good reason to look at 100% sizes. Why should you? You can't see the entire image even on the biggest monitors you can buy.\n\nIf I had really been pedantic about noise, I could have run Topaz Denoise at the preset \"Strong\" on the image, and then used a black mask and a white brush to paint it through in the few areas where it would be beneficial, mainly in the leaves of the plants to the right. It's pretty fuzzy though. Noise in the stone is no problem at all, and in the red canvas of the chairs, when you remove the noise, you actually remove the impression of texture. So, basically the image could profit from noise removal in some, but maybe not all leaves. I didn't care about it, but yes, there is always the question of what it is, that's noisy. In general, with a well exposed image and a modern camera, you have plenty of headroom."
+}

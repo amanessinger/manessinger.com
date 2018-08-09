@@ -1,0 +1,7 @@
+{
+    "author": "Markus Spring",
+    "author_url": "",
+    "date": "2009-09-25 17:22:23",
+    "indent_level": 0,
+    "content": "Andreas, if you change to a wordpress blog, the import from blogger will change all your labels into categories instead of tags. If you are interested I can send you a sql statement to correct this on the database level."
+}
