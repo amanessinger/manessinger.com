@@ -1,4 +1,4 @@
-baseurl = "https://zealous-knuth-abbf20.netlify.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Andreas Manessinger"
 theme = "manessinger_com"
