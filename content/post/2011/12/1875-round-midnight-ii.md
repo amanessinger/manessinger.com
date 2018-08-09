@@ -1,6 +1,6 @@
 ---
 title: "1875 - ‘Round Midnight II"
-url: /2011/12/1875-%e2%80%98round-midnight-ii.html
+url: /2011/12/1875-round-midnight-ii.html
 publishDate: Tue, 06 Dec 2011 00:53:57 +0000
 date: 2011-12-06 01:53:57
 categories: 
