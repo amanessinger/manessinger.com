@@ -60,7 +60,7 @@
         {{ if lt $comment.date "2018-08-08" }}
       <p class="comment-content">{{ $comment.content | safeHTML }}</p>
         {{ else }}
-        <p class="comment-content">{{ $comment.content }}</p>
+        <p class="comment-content">{{ $comment.content | emojify }}</p>
         {{ end }}
       </div>
     {{ end }}
