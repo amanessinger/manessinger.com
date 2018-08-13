@@ -2,7 +2,7 @@
 title: "4316 - Mixed Cultures"
 url: /2018/08/4316-mixed-cultures.html
 publishDate: 2018-08-13 18:00:00
-date: 2018-08-11
+date: 2018-08-13
 categories: 
   - "olympus-m-zuiko-digital-ed-12-40mm-f2-8-pro"
 tags: 

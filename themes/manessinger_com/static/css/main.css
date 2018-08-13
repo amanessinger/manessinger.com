@@ -39,8 +39,8 @@ pre {
   overflow-x: auto;
   padding: 8px 12px;
   border-radius: 3px;
-  background: #202020;
-  color: #d0d0d0;
+  background: #dddddd;
+  color: #000000;
 }
 
 pre code {

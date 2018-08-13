@@ -33,29 +33,29 @@ Now my problem: <a href="https://en.wikipedia.org/wiki/Markdown" rel="noopener" 
 
 I have already played around with <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> (more about that in another post) and used its WordPress converter. When converting "<a href="/2018/05/4214-the-congress-hall-from-afar-v.html" rel="noopener" target="_blank">4214 – The Congress Hall From Afar V</a>", I get a result like this:
 
-<div style="background-color:#DDDDDD; color:black;
-padding:20px; border:solid black 1px;"><code>---
-title: 4214 - The Congress Hall  From Afar V
-tags:
-  - Architecture
-  - Boats
-  - Germany
-  - Lake
-  - National Socialism
-  - Nuremberg
-  - Olympus OM-D E-M1 Mk II
-url: 16124.html
-id: 16124
-categories:
-  - Olympus M.Zuiko Digital ED 12-40mm f/2.8 PRO
-date: 2018-05-03 20:00:24
----
-
-[![](https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2017/20170619_150154_lr.jpg)](https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_150154_lr.jpg)
-
-  
-[![](https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2017/20170619_135026_lr.jpg)](https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_135026_lr.jpg) You can't erase your past. You have to live with it. So does Nuremberg. [![](https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2017/20170619_135044_lr.jpg)](https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_135044_lr.jpg) Doesn't the Image of the Day look peaceful? The war has been over for more than 70 years and we all hope it will have been the last. It has not been so in much of the world, but this does not mean things can't improve, can they?
-</code></div><br />
+    ---
+    title: 4214 - The Congress Hall  From Afar V
+    tags:
+      - Architecture
+      - Boats
+      - Germany
+      - Lake
+      - National Socialism
+      - Nuremberg
+      - Olympus OM-D E-M1 Mk II
+    url: 16124.html
+    id: 16124
+    categories:
+      - Olympus M.Zuiko Digital ED 12-40mm f/2.8 PRO
+    date: 2018-05-03 20:00:24
+    ---
+    
+    [![](https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2017/20170619_150154_lr.jpg)](https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_150154_lr.jpg)
+    
+    [![](https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2017/20170619_135026_lr.jpg)](https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_135026_lr.jpg) 
+    You can't erase your past. You have to live with it. So does Nuremberg. 
+    [![](https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2017/20170619_135044_lr.jpg)](https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_135044_lr.jpg)
+    Doesn't the Image of the Day look peaceful? The war has been over for more than 70 years and we all hope it will have been the last. It has not been so in much of the world, but this does not mean things can't improve, can they?
 
 You see, there is a section at the beginning, that is not strictly Markdown. It's what they call "Front Matter". It can come in three syntax variants, YAML like here, TOML and JSON. All three are frequently used in Markdown to represent meta-information, and many static site generators understand that. That's cool, because it means I can convert with one tool, and I am not bound to using it for presentation.
 

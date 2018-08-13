@@ -2,7 +2,7 @@
 title: "4315 - Roman Stoicism"
 url: /2018/08/4315-roman-stoicism.html
 publishDate: 2018-08-12 18:00:00
-date: 2018-08-11
+date: 2018-08-12
 categories: 
   - "olympus-m-zuiko-digital-ed-12-40mm-f2-8-pro"
 tags: 

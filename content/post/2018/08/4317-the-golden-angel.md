@@ -2,7 +2,7 @@
 title: "4317 - The Golden Angel"
 url: /2018/08/4317-the-golden-angel.html
 publishDate: 2018-08-14 18:00:00
-date: 2018-08-11
+date: 2018-08-14
 categories: 
   - "olympus-m-zuiko-digital-ed-12-40mm-f2-8-pro"
 tags: 
