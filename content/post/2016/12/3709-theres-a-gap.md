@@ -6,7 +6,7 @@ date: 2016-12-15 20:00:21
 categories: 
   - "olympus-m-zuiko-digital-ed-12-40mm-f2-8-pro"
 tags: 
-  - "advertizing"
+  - "advertising"
   - "aix-en-provence"
   - "france"
   - "olympus-om-d-e-m1"

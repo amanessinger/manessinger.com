@@ -7,7 +7,8 @@ categories:
   - "olympus-m-zuiko-digital-45-mm-f1-8"
 tags: 
   - "austria"
-  - "carinthia-karnten"
+  - "carinthia"
+  - "karnten"
   - "night"
   - "olympus-om-d-e-m5"
   - "snow"

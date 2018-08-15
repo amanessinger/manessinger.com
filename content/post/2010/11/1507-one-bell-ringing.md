@@ -9,7 +9,8 @@ tags:
   - "austria"
   - "bicycle"
   - "nikon-d300"
-  - "vienna-street"
+  - "vienna"
+  - "street"
   - "wien"
 ---
 <div class="container">

@@ -7,7 +7,7 @@ categories:
   - "tamron-17-502-8-vc"
 tags: 
   - "advertising"
-  - "austris"
+  - "austria"
   - "color"
   - "nikon-d300"
   - "shop"

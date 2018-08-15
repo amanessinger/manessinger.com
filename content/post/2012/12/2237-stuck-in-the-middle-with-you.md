@@ -8,7 +8,7 @@ categories:
 tags: 
   - "austria"
   - "autumn"
-  - "black"
+  - "black-and-white"
   - "color"
   - "olympus-om-d-e-m5"
   - "race-track"

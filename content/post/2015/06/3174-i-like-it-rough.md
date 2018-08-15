@@ -6,7 +6,7 @@ date: 2015-06-27 20:00:10
 categories: 
   - "olympus-m-zuiko-digital-ed-40-150mm-f2-8-pro"
 tags: 
-  - "architectrue"
+  - "architecture"
   - "austria"
   - "black-and-white"
   - "carinthia"

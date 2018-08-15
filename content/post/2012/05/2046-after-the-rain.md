@@ -6,7 +6,7 @@ date: 2012-05-24 22:33:19
 categories: 
   - "panasonic-lumix-g-201-7-asph"
 tags: 
-  - "archi"
+  - "architecture"
   - "austria"
   - "olympus-om-d-e-m5"
   - "rain"

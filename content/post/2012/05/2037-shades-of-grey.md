@@ -10,7 +10,8 @@ tags:
   - "black-and-white"
   - "olympus-om-d-e-m5"
   - "shrub"
-  - "wien-vienna"
+  - "wien"
+  - "vienna"
 ---
 <div class="container">
 <div class="center"><a target="_blank" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2012/20120515_175807_lr.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2012/20120515_175807_lr.jpg" /></a></div>

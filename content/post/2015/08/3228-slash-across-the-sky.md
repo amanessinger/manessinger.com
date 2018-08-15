@@ -6,7 +6,7 @@ date: 2015-08-20 20:00:36
 categories: 
   - "olympus-m-zuiko-digital-25mm-f1-8"
 tags: 
-  - "asutria"
+  - "austria"
   - "olympus-om-d-e-m1"
   - "sky"
   - "streetlight"

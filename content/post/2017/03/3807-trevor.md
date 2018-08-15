@@ -6,7 +6,7 @@ date: 2017-03-23 20:00:38
 categories: 
   - "olympus-m-zuiko-digital-ed-75-mm-f1-8"
 tags: 
-  - "advertizing"
+  - "advertising"
   - "austria"
   - "graffiti"
   - "olympus-pen-e-p5"

@@ -8,7 +8,7 @@ categories:
 tags: 
   - "architecture"
   - "austria"
-  - "blac"
+  - "black-and-white"
   - "carinthia"
   - "karnten"
   - "olympus-e-p2"

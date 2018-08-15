@@ -7,7 +7,7 @@ categories:
   - "olympus-m-zuiko-digital-ed-12-40mm-f2-8-pro"
   - "olympus-m-zuiko-digital-ed-40-150mm-f2-8-pro"
 tags: 
-  - "advertizing"
+  - "advertising"
   - "chain"
   - "lisbon"
   - "olympus-om-d-e-m1"

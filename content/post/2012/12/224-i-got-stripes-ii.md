@@ -6,7 +6,7 @@ date: 2012-12-06 19:43:24
 categories: 
   - "panasonic-leica-dg-summilux-251-4-asph"
 tags: 
-  - "austia"
+  - "austria"
   - "black-and-white"
   - "night"
   - "olympus-om-d-e-m5"

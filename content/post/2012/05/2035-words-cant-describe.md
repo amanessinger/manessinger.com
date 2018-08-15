@@ -8,7 +8,7 @@ categories:
   - "panasonic-lumix-g-142-5-asph"
   - "panasonic-lumix-g-201-7-asph"
 tags: 
-  - "austra"
+  - "austria"
   - "bicycle"
   - "carinthia"
   - "color"

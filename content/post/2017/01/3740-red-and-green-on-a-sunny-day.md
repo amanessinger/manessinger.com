@@ -6,7 +6,7 @@ date: 2017-01-15 20:00:18
 categories: 
   - "olympus-m-zuiko-digital-ed-60mm-f2-8-macro"
 tags: 
-  - "advertizing"
+  - "advertising"
   - "austria"
   - "olympus-e-p2"
   - "olympus-pen-e-p5"

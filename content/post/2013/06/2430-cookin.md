@@ -8,7 +8,7 @@ categories:
 tags: 
   - "austria"
   - "carinthia"
-  - "fountein"
+  - "fountain"
   - "karnten"
   - "leaves"
   - "olympus-om-d-e-m5"

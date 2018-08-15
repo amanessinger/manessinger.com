@@ -6,7 +6,7 @@ date: 2016-06-08 20:00:35
 categories: 
   - "olympus-m-zuiko-digital-ed-40-150mm-f2-8-pro"
 tags: 
-  - "advertizing"
+  - "advertising"
   - "austria"
   - "carinthia"
   - "karnten"
