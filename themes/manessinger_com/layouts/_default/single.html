@@ -57,11 +57,8 @@
         {{ if $comment.author_url }}</a>{{ end }}&nbsp;
         ({{ $comment.date | dateFormat "2006-01-02" }})
       </h4>
-        {{ if lt $comment.date "2018-08-08" }}
-      <p class="comment-content">{{ $comment.content | safeHTML }}</p>
-        {{ else }}
+        {{/* old comments are considered safe, new will have to be made safe by tooling! */}}
         <p class="comment-content">{{ $comment.content | safeHTML }}</p>
-        {{ end }}
       </div>
     {{ end }}
   {{ end }}
