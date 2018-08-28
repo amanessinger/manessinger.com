@@ -1,8 +1,8 @@
-+++
-date = "2018-08-08"
-title = "Site notice"
-slug = "site-notice"
-+++
+---
+date: "2018-08-08"
+title: "Site notice"
+slug: "site-notice"
+---
 
 ### History
 

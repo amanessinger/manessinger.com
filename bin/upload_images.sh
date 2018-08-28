@@ -57,7 +57,7 @@ cp ${INBASEDIR}/tmp/*.JPG tmp/
 (
 	for img in tmp/* ; do
 	    for size in \
-			0150x0150 0400x0400 0600x0600 0800x0800 1024x1024 1200x1200
+			0150x0150 0600x0600 1200x1200
 		    do
 		    imgbase=$(basename ${img})
 		    year=$(echo ${imgbase} | sed -e 's/^\(....\).*/\1/')

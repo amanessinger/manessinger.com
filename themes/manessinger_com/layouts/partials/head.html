@@ -29,3 +29,9 @@
 
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css" media="all">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/fonts.css">
+
+{{ if .Params.webcomponents }}
+  {{ range $index, $wc := .Params.webcomponents }}
+<script src="/webcomponents/{{$wc}}/{{$wc}}.js"></script>
+  {{ end }}
+{{ end }}

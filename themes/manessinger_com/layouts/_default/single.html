@@ -26,13 +26,20 @@
       {{ end }}
   </article>
 
+  {{ $secret := "141592653589793_" }} {{/* yes, it's public, but it is nowhere in the page */}}
   {{ if hasPrefix .File.Dir "post/" }}
+    {{ $page_fq := .File.BaseFileName | printf "%s%s" .Dir }}
+    {{ $page_secret := print $secret $page_fq }}
+    {{ $page_hash := sha1 $page_secret }}
     <ul class="page-links">
         <li>
           {{ if .Prev }}
           <a href="{{ .Prev.Permalink }}">Newer</a>
           {{ else }}
           {{ end }}
+        </li>
+        <li>
+          <a onclick="window.open('/comment/#{{ $page_fq }}/{{ $page_hash }}', '_blank', 'location=yes,scrollbars=yes,status=yes');">💬 Reply?</a>
         </li>
         <li>
           {{ if .Next }}
@@ -49,7 +56,11 @@
     <hr>
     <h3>There are {{ len $files }} comments</h3>
     {{ range $files }}
-      {{ $comment := getJSON $dir "/" .Name }}
+      {{ $comment_fqfn := print $dir "/" .Name }}
+      {{ $comment := getJSON $comment_fqfn }}
+      {{ $comment_fq := replace $comment_fqfn ".json" "" }}
+      {{ $comment_secret := print $secret $comment_fq }}
+      {{ $comment_hash := sha1 $comment_secret }}
       <div class="comment-indent-{{ $comment.indent_level }}">
       <h4 class="comment-title">
         {{ if $comment.author_url }}<a href="{{ $comment.author_url }}" target="_blank">{{ end }}
@@ -59,6 +70,9 @@
       </h4>
         {{/* old comments are considered safe, new will have to be made safe by tooling! */}}
         <p class="comment-content">{{ $comment.content | safeHTML }}</p>
+        <p class="comment-content">
+          <a onclick="window.open('/comment/#{{ $comment_fq }}/{{ $comment_hash }}', '_blank', 'location=yes,scrollbars=yes,status=yes');">💬 Reply?</a>
+        </p>
       </div>
     {{ end }}
   {{ end }}

@@ -1,7 +1,7 @@
-+++
-title = "About"
-date = "2018-08-08"
-+++
+---
+title: "About"
+date: "2018-08-08"
+---
 
 My name is Andreas Manessinger and this is my blog. It’s a photo blog, and that means, every post has a photo. Well, apart from those rare administrative posts that have none. Posts with photos have a number in their title, counting upwards.
 
