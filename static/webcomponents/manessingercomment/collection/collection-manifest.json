@@ -1,0 +1,45 @@
+{
+  "components": [
+    {
+      "tag": "manessinger-comment",
+      "dependencies": [],
+      "componentClass": "ManessingerComment",
+      "componentPath": "components/manessinger-comment/manessinger-comment.js",
+      "styles": {
+        "$": {
+          "stylePaths": [
+            "components/manessinger-comment/manessinger-comment.scss"
+          ]
+        }
+      },
+      "states": [
+        {
+          "name": "commentValue"
+        },
+        {
+          "name": "emailValue"
+        },
+        {
+          "name": "userNameValue"
+        },
+        {
+          "name": "websiteValue"
+        }
+      ],
+      "context": [
+        {
+          "name": "window",
+          "id": "window"
+        }
+      ],
+      "shadow": true
+    }
+  ],
+  "collections": [],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "0.11.4",
+    "typescriptVersion": "2.9.2"
+  },
+  "bundles": []
+}

@@ -1,0 +1,96 @@
+:host input[type="submit"],
+:host input[type="button"],
+:host label {
+  font-family: var(--manessinger-comment-font-family);
+  -webkit-appearance: none; }
+
+:host label {
+  font-size: var(--manessinger-comment-label-font-font-size); }
+
+:host .flex-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+:host #username-label {
+  grid-area: namelabel; }
+
+:host #username {
+  grid-area: namevalue; }
+
+:host #email-label {
+  grid-area: emaillabel; }
+
+:host #email {
+  grid-area: emailvalue; }
+
+:host #website-label {
+  grid-area: websitelabel; }
+
+:host #website {
+  grid-area: websitevalue; }
+
+:host #comment-label {
+  grid-area: commentlabel; }
+
+:host #comment {
+  grid-area: commentvalue; }
+
+:host #cancel {
+  grid-area: cancel; }
+
+:host #submit {
+  grid-area: submit; }
+
+:host .form-container {
+  display: grid;
+  grid-template-columns: 140px 140px;
+  grid-template-rows: auto;
+  grid-template-areas: "namelabel     namelabel" "namevalue     namevalue" "emaillabel    emaillabel" "emailvalue    emailvalue" "websitelabel  websitelabel" "websitevalue  websitevalue" "commentlabel  commentlabel" "commentvalue  commentvalue" "commentvalue  commentvalue" "cancel        submit      ";
+  grid-column-gap: 10px;
+  grid-row-gap: 15px;
+  background-color: #ffffff;
+  padding: 10px; }
+
+:host label {
+  justify-self: start; }
+
+:host input {
+  background-color: #ffffff; }
+
+:host textarea {
+  height: 10ex; }
+
+:host input, :host textarea {
+  border: 2px inset #bbbbbb; }
+
+:host #cancel,
+:host #submit {
+  padding: 0.5ex 7px 0.6ex; }
+
+@media (min-width: 400px) {
+  :host .form-container {
+    grid-template-columns: 70px 70px 70px 70px 70px;
+    grid-template-areas: "namelabel namelabel        namevalue namevalue namevalue" "emaillabel emaillabel      emailvalue emailvalue emailvalue" "websitelabel websitelabel  websitevalue websitevalue websitevalue" "commentlabel commentlabel  . . ." "commentvalue commentvalue  commentvalue commentvalue commentvalue" "cancel cancel .            submit submit";
+    padding: 12px; } }
+
+@media (min-width: 600px) {
+  :host .form-container {
+    grid-template-columns: 85px 85px 85px 85px 85px 85px;
+    grid-template-areas: "namelabel namelabel        namevalue namevalue namevalue namevalue" "emaillabel emaillabel      emailvalue emailvalue emailvalue emailvalue" "websitelabel websitelabel  websitevalue websitevalue websitevalue websitevalue" "commentlabel commentlabel  . . . . " "commentvalue commentvalue  commentvalue commentvalue commentvalue commentvalue" "cancel cancel cancel       submit submit submit";
+    padding: 15px; } }
+
+@media (min-width: 1024px) {
+  :host .form-container {
+    grid-template-columns: 132px 132px 132px 132px;
+    grid-template-areas: "namelabel     namevalue     namevalue    namevalue" "emaillabel    emailvalue    emailvalue   emailvalue" "websitelabel  websitevalue  websitevalue websitevalue" "commentlabel  commentlabel  .            ." "commentvalue  commentvalue  commentvalue commentvalue" "cancel        cancel        submit       submit";
+    padding: 20px; } }
+
+@media (min-height: 700px) {
+  :host textarea {
+    height: 20ex; } }
+
+@media (min-height: 1024px) {
+  :host textarea {
+    height: 30ex; } }

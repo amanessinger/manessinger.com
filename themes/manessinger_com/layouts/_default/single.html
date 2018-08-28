@@ -39,7 +39,7 @@
           {{ end }}
         </li>
         <li>
-          <a onclick="window.open('/comment/#{{ $page_fq }}/{{ $page_hash }}', '_blank', 'location=yes,scrollbars=yes,status=yes');">💬 Reply?</a>
+          <a onclick="window.open('/comment/#{{ $page_fq }}/{{ $page_hash }}', '_blank', 'location=yes,scrollbars=yes,status=yes');">💬 Reply 💬</a>
         </li>
         <li>
           {{ if .Next }}
@@ -71,7 +71,7 @@
         {{/* old comments are considered safe, new will have to be made safe by tooling! */}}
         <p class="comment-content">{{ $comment.content | safeHTML }}</p>
         <p class="comment-content">
-          <a onclick="window.open('/comment/#{{ $comment_fq }}/{{ $comment_hash }}', '_blank', 'location=yes,scrollbars=yes,status=yes');">💬 Reply?</a>
+          <a onclick="window.open('/comment/#{{ $comment_fq }}/{{ $comment_hash }}', '_blank', 'location=yes,scrollbars=yes,status=yes');">💬 Reply 💬</a>
         </p>
       </div>
     {{ end }}
