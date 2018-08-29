@@ -26,11 +26,11 @@
       {{ end }}
   </article>
 
-  {{ $secret := "141592653589793_" }} {{/* yes, it's public, but it is nowhere in the page */}}
+  {{ $secret := getenv "HUGO_SECRET" }}
   {{ if hasPrefix .File.Dir "post/" }}
     {{ $page_fq := .File.BaseFileName | printf "%s%s" .Dir }}
     {{ $page_secret := print $secret $page_fq }}
-    {{ $page_hash := sha1 $page_secret }}
+    {{ $page_hash := sha256 $page_secret }}
     <ul class="page-links">
         <li>
           {{ if .Prev }}
@@ -60,7 +60,7 @@
       {{ $comment := getJSON $comment_fqfn }}
       {{ $comment_fq := replace $comment_fqfn ".json" "" }}
       {{ $comment_secret := print $secret $comment_fq }}
-      {{ $comment_hash := sha1 $comment_secret }}
+      {{ $comment_hash := sha256 $comment_secret }}
       <div class="comment-indent-{{ $comment.indent_level }}">
       <h4 class="comment-title">
         {{ if $comment.author_url }}<a href="{{ $comment.author_url }}" target="_blank">{{ end }}
