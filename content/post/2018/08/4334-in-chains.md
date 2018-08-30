@@ -17,4 +17,4 @@ tags:
 </div>
 <br />
 
-Here I am, scratching my head, wondering how I could get in such a predicament :smiley:
+Here I am, scratching my head, wondering how I could get into such a predicament :smiley:
