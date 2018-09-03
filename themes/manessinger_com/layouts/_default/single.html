@@ -61,15 +61,22 @@
       {{ $comment_fq := replace $comment_fqfn ".json" "" }}
       {{ $comment_secret := print $secret $comment_fq }}
       {{ $comment_hash := sha256 $comment_secret }}
-      <div class="comment-indent-{{ $comment.indent_level }}">
-      <h4 class="comment-title">
-        {{ if $comment.author_url }}<a href="{{ $comment.author_url }}" target="_blank">{{ end }}
-        {{ $comment.author }}
-        {{ if $comment.author_url }}</a>{{ end }}&nbsp;
-        ({{ $comment.date | dateFormat "2006-01-02" }})
-      </h4>
-        {{/* old comments are considered safe, new will have to be made safe by tooling! */}}
-        <p class="comment-content">{{ $comment.content | safeHTML }}</p>
+      <div class="comment-indent-{{ $comment.indent_level }} comment-content-wrapper">
+        <h4 class="comment-title">
+          {{ if $comment.author_url }}<a href="{{ $comment.author_url }}" target="_blank">{{ end }}
+          {{ $comment.author }}
+          {{ if $comment.author_url }}</a>{{ end }}&nbsp;
+          ({{ $comment.date | dateFormat "2006-01-02" }})
+        </h4>
+        <p class="comment-content">
+          {{ if $comment.attach_to }}
+          {{/* old comments are considered safe, new will have to be made safe by tooling! */}}
+              {{ $comment.content | markdownify }}
+          {{ else }}
+              {{/* old comments are considered safe, new will have to be made safe by tooling! */}}
+              {{ $comment.content | safeHTML }}
+          {{ end }}
+        </p>
         <p class="comment-content">
           <a onclick="window.open('/comment/#{{ $comment_fq }}/{{ $comment_hash }}', '_blank', 'location=yes,scrollbars=yes,status=yes');">💬 Reply 💬</a>
         </p>

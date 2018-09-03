@@ -8,12 +8,7 @@ webcomponents:
 
 <br />
 
-<blockquote>Sorry, commenting is not yet fully implemented. Gimme a few days and then it will work. Right now your comment would get lost.</blockquote>
-<br /><br />
-
 <manessinger-comment></manessinger-comment>
-
-<br /><br />
 
 ---
 
