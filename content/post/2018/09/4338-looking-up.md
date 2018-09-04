@@ -29,3 +29,11 @@ At some time (hint: I'll do it as soon as I personally see the new blog under th
 **But then**: 
 
 * Everything's going to be well. Don't worry. This is just for the odd case that I'm wrong :smiley:
+
+**A while later**:
+
+OK. it's live and I have no idea how many readers I've lost. Fact is, the blog is available under https://manessinger.com/, as well as under https://www.manessinger.com, as well as under https://blog.andreas-manessinger.info/.
+
+The old blog is gone. Not all is well though. All links in the blog point to https://blog.andreas-manessinger.info/ instead of https://manessinger.com/. The same is true for the RSS feed. I can live with that, but it means that I either find a way to fix it, or the domain blog.andreas-manessinger.info must forever be tied to manessinger.com. No problem, more a matter of aesthetics :smiley:
+
+In the meantime I've had a few glitches, but nothing worse than I've expected and announced.
