@@ -1,6 +1,6 @@
 ---
 title: "4336 - Paradise, finally!"
-url: /2018/08/4336-paradise-finally.html
+url: /2018/09/4336-paradise-finally.html
 publishDate: 2018-09-02 18:00:00
 date: 2018-09-02
 categories: 

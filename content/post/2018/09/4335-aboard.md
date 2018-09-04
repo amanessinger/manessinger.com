@@ -1,6 +1,6 @@
 ---
 title: "4335 - Aboard"
-url: /2018/08/4335-aboard.html
+url: /2018/09/4335-aboard.html
 publishDate: 2018-09-01 18:00:00
 date: 2018-09-01
 categories: 
