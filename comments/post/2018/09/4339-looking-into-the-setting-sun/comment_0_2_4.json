@@ -1,0 +1,10 @@
+{
+  "id": 4,
+  "date": "2018-09-05 21:48:21",
+  "attach_to": "comments/post/2018/09/4339-looking-into-the-setting-sun/comment_0_2",
+  "author": "Andreas",
+  "author_email": "",
+  "author_url": "https://manessinger.com/",
+  "content": "I see what you mean. Yes, it is a little early to go for native Unicode emoji rendering. I've just seen this post on the GitLab blog: https://about.gitlab.com/2018/05/30/journey-in-native-unicode-emoji/\n\nIt's from end of May this year (Gulp!), and the author describes how they have to use fallbacks to SVG in certain situation.\n\nI won't do that. What are the options really? A complicated solution like that on GitLab, hard to maintain and fragile over time? Images instead of Unicode characters, with all their bandwidth implications? Hosting a web font myself (under the assumption there is one)?\n\nIt's all a problem, but I have good reasons to assume that the problem will simply go away. Yes, it's early, earlier than I'd have thought (thanks for the hint!), but at least so far I will try to sit through.",
+  "indent_level": 1
+}
