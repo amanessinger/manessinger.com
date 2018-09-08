@@ -1,5 +1,5 @@
 ---
-title: "4342 - Needles and Rocks"
+title: "4342 - Evening Pines"
 url: /2018/09/4342-evening-pines.html
 publishDate: 2018-09-08 18:00:00
 date: 2018-09-08
