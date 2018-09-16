@@ -4,7 +4,7 @@ url: /2018/09/4349-the-bishop-ii.html
 publishDate: 2018-09-15 18:00:00
 date: 2018-09-15
 categories: 
-  - "olympus-m-zuiko-digital-17mm-f1-8"
+  - "olympus-m-zuiko-digital-ed-12mm-f2-0"
 tags: 
   - "sculpture"
   - "rab"
