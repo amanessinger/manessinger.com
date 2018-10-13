@@ -44,4 +44,4 @@ Now that I think of it, the escalator didn't move, we had to climb.
 The glass was very dark and I had to use 1/6 s. Had it moved, the
 shot would have been impossible.
 
-Oh, and, one more thing: Today is this blog's 14<sup>th</sup> birthday! Cheers <big><big>:beers:</big></big>
+Oh, and, one more thing: Today is this blog's 12<sup>th</sup> birthday! Cheers <big><big>:beers:</big></big>
