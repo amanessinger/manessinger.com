@@ -4,7 +4,7 @@ url: /2018/11/4404-the-fast-biker.html
 publishDate: 2018-11-09 18:00:00
 date: 2018-11-09
 categories: 
-  - "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro"
+  - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags: 
   - "austria"
   - "wien"
