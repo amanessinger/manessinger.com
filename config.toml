@@ -36,7 +36,7 @@ enableEmoji = true
     description = "Andreas Manessinger's Daily Photography ... and more"
 
     [params.logo]
-    url = "logo.jpg"
+    url = "logo.png"
     width = 50
     height = 50
     alt = "Logo"
