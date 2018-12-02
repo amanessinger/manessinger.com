@@ -10,6 +10,7 @@ tags:
   - "salzburg"
   - "salzkammergut"
   - "fish"
+  - "sankt-gilgen"
   - "restaurant"
   - "olympus-om-d-e-m1-mk-ii"
 ---

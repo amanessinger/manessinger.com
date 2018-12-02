@@ -10,6 +10,7 @@ tags:
   - "salzburg"
   - "salzkammergut"
   - "lake"
+  - "sankt-gilgen"
   - "wolfgangsee"
   - "olympus-om-d-e-m1-mk-ii"
 ---
