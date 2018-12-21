@@ -1,6 +1,6 @@
 ---
 title: "4426 - Wolfgangsee I"
-url: /2018/11/4426-wolfgangsee-i.html
+url: /2018/12/4426-wolfgangsee-i.html
 publishDate: 2018-12-01 18:00:00
 date: 2018-12-01
 categories: 

@@ -1,6 +1,6 @@
 ---
 title: "4439 - Heroic"
-url: /2018/11/4439-heroic.html
+url: /2018/12/4439-heroic.html
 publishDate: 2018-12-14 18:00:00
 date: 2018-12-14
 categories: 

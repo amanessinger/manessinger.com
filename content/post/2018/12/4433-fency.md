@@ -1,6 +1,6 @@
 ---
 title: "4433 - Fency"
-url: /2018/11/4433-fency.html
+url: /2018/12/4433-fency.html
 publishDate: 2018-12-08 18:00:00
 date: 2018-12-08
 categories: 

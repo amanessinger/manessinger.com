@@ -1,6 +1,6 @@
 ---
 title: "4428 - Wolfgangsee II"
-url: /2018/11/4428-wolfgangsee-ii.html
+url: /2018/12/4428-wolfgangsee-ii.html
 publishDate: 2018-12-03 18:00:00
 date: 2018-12-03
 categories: 

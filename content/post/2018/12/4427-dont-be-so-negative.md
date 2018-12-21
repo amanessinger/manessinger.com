@@ -1,6 +1,6 @@
 ---
 title: "4427 - Don't be so negative!"
-url: /2018/11/4427-dont-be-so-negative.html
+url: /2018/12/4427-dont-be-so-negative.html
 publishDate: 2018-12-02 18:00:00
 date: 2018-12-02
 categories: 

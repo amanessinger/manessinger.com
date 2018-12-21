@@ -1,6 +1,6 @@
 ---
 title: "4434 - Blinded"
-url: /2018/11/4434-blinded.html
+url: /2018/12/4434-blinded.html
 publishDate: 2018-12-09 18:00:00
 date: 2018-12-09
 categories: 

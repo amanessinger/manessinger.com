@@ -1,6 +1,6 @@
 ---
 title: "4445 - Before Demolition"
-url: /2018/11/4445-before-demolition.html
+url: /2018/12/4445-before-demolition.html
 publishDate: 2018-12-20 18:00:00
 date: 2018-12-20
 categories: 
