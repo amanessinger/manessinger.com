@@ -6,7 +6,11 @@
 #
 # Input base directory, for me a VirtualBox shared folder
 #
-INBASEDIR=~/Website
+IN_BASE_DIR=~/Website
+if [[ -d /mnt/c/Users/micro/Website ]] ; then
+    IN_BASE_DIR=/mnt/c/Users/micro/Website
+fi
+
 #
 # Base directory where we convert
 #
@@ -21,23 +25,23 @@ BUCKET=manessingercomimages
 #
 # Make sure the input directory exists and has input
 #
-if [ ! -d ${INBASEDIR}/tmp ] ; then
-    sudo mount ${INBASEDIR}
+if [[ ! -d ${IN_BASE_DIR}/tmp ]] ; then
+    sudo mount ${IN_BASE_DIR}
 fi
-if [ ! -d ${INBASEDIR}/tmp ] ; then
-    echo "$0: ${INBASEDIR}/tmp does not exist, mount may have failed"
+if [[ ! -d ${IN_BASE_DIR}/tmp ]] ; then
+    echo "$0: ${IN_BASE_DIR}/tmp does not exist, mount may have failed"
     exit 1
 fi
-files=`echo ${INBASEDIR}/tmp/*`
-if [ "$files" = "${INBASEDIR}/tmp/*" ] ; then
-    echo "$0: input directory ${INBASEDIR}/tmp exists but is empty"
+files=`echo ${IN_BASE_DIR}/tmp/*`
+if [[ "$files" = "${IN_BASE_DIR}/tmp/*" ]] ; then
+    echo "$0: input directory ${IN_BASE_DIR}/tmp exists but is empty"
     exit 1
 fi
 
 #
 # Make sure the conversion directory exists and we are there
 #
-if [ ! -d ${BASEDIR} ] ; then
+if [[ ! -d ${BASEDIR} ]] ; then
     mkdir -p ${BASEDIR}
 fi
 cd ${BASEDIR}
@@ -48,8 +52,8 @@ cd ${BASEDIR}
 rm -rf out
 rm -rf tmp
 mkdir tmp
-cp ${INBASEDIR}/tmp/*.jpg tmp/
-cp ${INBASEDIR}/tmp/*.JPG tmp/
+cp ${IN_BASE_DIR}/tmp/*.jpg tmp/
+cp ${IN_BASE_DIR}/tmp/*.JPG tmp/
 
 #
 # Do the conversions
@@ -62,7 +66,7 @@ cp ${INBASEDIR}/tmp/*.JPG tmp/
 		    imgbase=$(basename ${img})
 		    year=$(echo ${imgbase} | sed -e 's/^\(....\).*/\1/')
 		    expr "x${year}" : "x2[0-9][0-9][0-9]" > /dev/null
-		    if [ $? != 0 ] ; then
+		    if [[ $? != 0 ]] ; then
 			    year=misc
 		    fi
 		    echo "Converting ${img} to size ${size}"
@@ -71,7 +75,7 @@ cp ${INBASEDIR}/tmp/*.JPG tmp/
 			-filter Lanczos \
 			-resize "${size}>" \
 			-unsharp 1x1+0.2+0.05 \
-			$img out/${size}/${year}/${imgbase}
+			${img} out/${size}/${year}/${imgbase}
 		    echo "  done."
 		    echo ""
 		done
