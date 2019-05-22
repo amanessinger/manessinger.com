@@ -1,6 +1,6 @@
 ---
 title: "4599 - Stadtschlaining III"
-url: /2019/05/4599-stadtschlaining-iii.md.html
+url: /2019/05/4599-stadtschlaining-iii.html
 publishDate: 2019-05-23 18:00:00
 date: 2019-05-23
 categories: 

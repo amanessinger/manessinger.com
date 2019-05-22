@@ -1,6 +1,6 @@
 ---
 title: "4596 - Not a Church, a School!"
-url: /2019/05/4596-not-a-church-a-chool.html
+url: /2019/05/4596-not-a-church-a-school.html
 publishDate: 2019-05-20 18:00:00
 date: 2019-05-20
 categories: 

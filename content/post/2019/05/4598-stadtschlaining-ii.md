@@ -1,6 +1,6 @@
 ---
 title: "4598 - Stadtschlaining II"
-url: /2019/05/4598-stadtschlaining-ii.md.html
+url: /2019/05/4598-stadtschlaining-ii.html
 publishDate: 2019-05-22 18:00:00
 date: 2019-05-22
 categories: 
