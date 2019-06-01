@@ -1,6 +1,6 @@
 ---
 title: "4610 - Castle Schlaining XI"
-url: /2019/05/4610-castle-schlaining-xi.html
+url: /2019/06/4610-castle-schlaining-xi.html
 publishDate: 2019-06-03 18:00:00
 date: 2019-06-03
 categories: 
