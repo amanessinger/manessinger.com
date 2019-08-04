@@ -1,6 +1,6 @@
 ---
 title: "4672 - The Church of the Minorites"
-url: /2019/07/4672-the-church-of-the-minorites.html
+url: /2019/08/4672-the-church-of-the-minorites.html
 publishDate: 2019-08-04 18:00:00
 date: 2019-08-04
 categories: 

@@ -1,6 +1,6 @@
 ---
 title: "4673 - Sit Down, Reflect upon the Church of the Minorites"
-url: /2019/07/4673-sit-down-reflect-upon-the-church-of-the-minorites.html
+url: /2019/08/4673-sit-down-reflect-upon-the-church-of-the-minorites.html
 publishDate: 2019-08-05 18:00:00
 date: 2019-08-05
 categories: 

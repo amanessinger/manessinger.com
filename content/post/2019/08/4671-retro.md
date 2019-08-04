@@ -1,6 +1,6 @@
 ---
 title: "4671 - Retro"
-url: /2019/07/4671-retro.html
+url: /2019/08/4671-retro.html
 publishDate: 2019-08-03 18:00:00
 date: 2019-08-03
 categories: 

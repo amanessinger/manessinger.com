@@ -1,6 +1,6 @@
 ---
 title: "4674 - Rearing Up Against the Church of the Minorites"
-url: /2019/07/4674-rearing-up-against-the-church-of-the-minorites.html
+url: /2019/08/4674-rearing-up-against-the-church-of-the-minorites.html
 publishDate: 2019-08-06 18:00:00
 date: 2019-08-06
 categories: 

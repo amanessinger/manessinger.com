@@ -1,6 +1,6 @@
 ---
 title: "4670 - Memories"
-url: /2019/07/4670-memories.html
+url: /2019/08/4670-memories.html
 publishDate: 2019-08-02 18:00:00
 date: 2019-08-02
 categories: 

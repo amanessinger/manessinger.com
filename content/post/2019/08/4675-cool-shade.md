@@ -1,6 +1,6 @@
 ---
 title: "4675 - Cool Shade"
-url: /2019/07/4675-cool-shade.html
+url: /2019/08/4675-cool-shade.html
 publishDate: 2019-08-07 18:00:00
 date: 2019-08-07
 categories: 
