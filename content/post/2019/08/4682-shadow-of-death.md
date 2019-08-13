@@ -8,7 +8,7 @@ categories:
 tags: 
   - "austria"
   - "niederosterreich"
-  - "Oberloiben"
+  - "oberloiben"
   - "cemetery"
   - "olympus-om-d-e-m1-mk-ii"
 ---
