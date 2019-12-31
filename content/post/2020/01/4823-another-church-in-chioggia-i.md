@@ -8,6 +8,8 @@ categories:
 tags: 
   - "italy"
   - "chioggia"
+  - "church"
+  - "chiesa-di-sant-andrea"
   - "olympus-om-d-e-m1-mk-ii"
 ---
 <div class="container">
