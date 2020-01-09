@@ -4,7 +4,7 @@ url: /2020/01/4830-a-cathedral-of-light-i.html
 publishDate: 2020-01-09 18:00:00
 date: 2020-01-09
 categories: 
-  - "olympus-m-zuiko-digital-ed-12-40mm-f2-8-pro"
+  - "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro"
 tags: 
   - "italy"
   - "church"
