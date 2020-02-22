@@ -16,6 +16,9 @@ Thanks for coming here to leave a comment. Very much appreciated 👍
 
 Please note that:
 
+* You currently will get an error when submitting the comment.
+  Relax, no need to try again, it works anyway. I should fix it,
+  but I am notoriously low on time.
 * The name that you leave will be published alongside with your comment. You may use any name you like, although I favor real names. Your choice though.
 * If you leave an email address, it will of course neither be published on my site nor in the source repository of this site on GitHub. I value your privacy highly. I may reply by email though.
 * If you leave a website URL, your name will be published as a link to your website.
