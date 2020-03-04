@@ -21,3 +21,22 @@ San Domenico is a little bit off the center. Not unusual for a
 mendicant order, but not mandatory either. I'd say it depended much
 on the age of the order at the time of construction. The rebels
 quickly became part of the establishment. As always :smiley:
+
+A quick realtime update: on Monday, March 2, I got my OM-D E-M1 mk
+iii. I've not yet configured it and just made a handful of test
+images, but my first attempt at 4 seconds handheld (12-100/4.0 at
+12mm) was successful. I can't reproduce this in a hurry, I might at
+times need a second attempt, but 4 seconds are the new frontier
+:smiley:
+
+At 100 mm (200 mm eq), I seem to hold quite reliably 1.6 seconds.
+
+Expect slightly worse results with non-stabilized lenses.
+
+The new joystick is surprisingly convenient, the new position of the
+menu button acceptable, and everything else is as it was. Lightroom
+is already supported and DxO promises mid-March.
+
+Not sure if I keep the mk ii. It should sell for around 800€ while a
+mk i yields not more than maybe 350€, probably less. Maybe I keep
+them all and start collecting :stuck_out_tongue:
