@@ -50,3 +50,6 @@ worst cases, those who wouldn't survive without intensive care.
 Or you can have [other
 priorities](https://www.theguardian.com/us-news/2020/mar/11/donald-trump-coronavirus-politics)
 like Donald Trump.
+
+Edit: oops! 206/+24, that an intermediate result. Today we really
+have 246/+64, and that's a dramatic rise!
