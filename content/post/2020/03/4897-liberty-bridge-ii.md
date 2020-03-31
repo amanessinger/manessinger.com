@@ -10,6 +10,7 @@ tags:
   - "budapest"
   - "river"
   - "bridge"
+  - "coronavirus"
   - "olympus-om-d-e-m1-mk-ii"
 ---
 <div class="container">
