@@ -1,6 +1,6 @@
 ---
 title: "4922 - Széchenyi Chain Bridge I"
-url: /2020/03/4922-szechenyi-chain-bridge-i.html
+url: /2020/04/4922-szechenyi-chain-bridge-i.html
 publishDate: 2020-04-10 18:00:00
 date: 2020-04-10
 categories: 

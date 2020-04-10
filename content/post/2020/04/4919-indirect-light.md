@@ -1,6 +1,6 @@
 ---
 title: "4919 - Indirect Light"
-url: /2020/03/4919-indirect-light.html
+url: /2020/04/4919-indirect-light.html
 publishDate: 2020-04-07 18:00:00
 date: 2020-04-07
 categories: 

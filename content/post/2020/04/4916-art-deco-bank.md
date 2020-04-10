@@ -1,6 +1,6 @@
 ---
 title: "4916 - Art Deco Bank"
-url: /2020/03/4916-art-deco-bank.html
+url: /2020/04/4916-art-deco-bank.html
 publishDate: 2020-04-04 18:00:00
 date: 2020-04-04
 categories: 
