@@ -28,7 +28,7 @@
 
   {{ $secret := getenv "HUGO_SECRET" }}
   {{ if hasPrefix .File.Dir "post/" }}
-    {{ $page_fq := .File.BaseFileName | printf "%s%s" .Dir }}
+    {{ $page_fq := .File.BaseFileName | printf "%s%s" .File.Dir }}
     {{ $page_secret := print $secret $page_fq }}
     {{ $page_hash := sha256 $page_secret }}
     <ul class="page-links">
@@ -50,7 +50,7 @@
     </ul>
   {{ end }}
 
-  {{ $dir := .File.BaseFileName | printf "%s%s" .Dir | printf "%s%s" "comments/" }}
+  {{ $dir := .File.BaseFileName | printf "%s%s" .File.Dir | printf "%s%s" "comments/" }}
   {{ if (fileExists $dir) }}
     {{ $files := readDir $dir }}
     <hr>
