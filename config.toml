@@ -32,6 +32,9 @@ enableEmoji = true
     url = "/categories"
     weight = -130
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 [params]
     description = "Andreas Manessinger's Daily Photography ... and more"
 
