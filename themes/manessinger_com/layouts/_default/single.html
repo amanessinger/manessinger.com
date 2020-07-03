@@ -32,21 +32,21 @@
     {{ $page_secret := print $secret $page_fq }}
     {{ $page_hash := sha256 $page_secret }}
     <ul class="page-links">
-        <li>
-          {{ if .Prev }}
-          <a href="{{ .Prev.Permalink }}">Newer</a>
-          {{ else }}
-          {{ end }}
-        </li>
+      <li>
+        {{ if .Next }}
+        <a href="{{ .Next.Permalink }}">Newer</a>
+        {{ else }}
+        {{ end }}
+      </li>
         <li>
           <a onclick="window.open('/comment/#{{ $page_fq }}/{{ $page_hash }}', '_blank', 'location=yes,scrollbars=yes,status=yes');">💬 Reply 💬</a>
         </li>
-        <li>
-          {{ if .Next }}
-          <a href="{{ .Next.Permalink }}">Older</a>
-          {{ else }}
-          {{ end }}
-        </li>
+      <li>
+        {{ if .Prev }}
+        <a href="{{ .Prev.Permalink }}">Older</a>
+        {{ else }}
+        {{ end }}
+      </li>
     </ul>
   {{ end }}
 
