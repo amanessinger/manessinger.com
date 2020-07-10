@@ -32,6 +32,11 @@ enableEmoji = true
     url = "/categories"
     weight = -130
 
+[[menu.main]]
+    name = "Flickr"
+    url = "https://www.flickr.com/photos/amanessinger/"
+    weight = -140
+
 [markup.goldmark.renderer]
     unsafe = true
 

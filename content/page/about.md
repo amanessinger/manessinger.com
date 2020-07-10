@@ -5,6 +5,8 @@ date: "2018-08-08"
 
 My name is Andreas Manessinger and this is my blog. It’s a photo blog, and that means, every post has a photo. Well, apart from those rare administrative posts that have none. Posts with photos have a number in their title, counting upwards.
 
+<center><em><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This site and all images, except the site logo, are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</em></center>
+
 This is not only a photo blog, it’s a daily photo blog as well, meaning that I post a photo per day. In fact I post at least a photo per day, but only one of them is the Image of the Day. “Daily” is a relative term though. For the first several years it did not mean “strictly every day”, rather it meant, that in the long run there was a numbered post per day. At any given moment I may have been one, two, seldom more, days behind my schedule. Normally I caught up within a few days, sometimes posting more than one entry per day.
 
 I was never ahead of schedule. The reason was, that I posted images taken on the day that the post represented. This was a hard rule that I broke every once in a while, normally because I had no time, weather was bad or I found any other excuse. On such days I resurfaced something from the archives. It did not happen too often though.
