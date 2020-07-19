@@ -22,5 +22,5 @@ to go light: the small, collapsible Panasonic 12-35/3.5-5.6. Also
 plastic, also of quite sufficient quality, this time with unbeatable
 70 g. Add the Olympus 9-18, and you have a set of three lenses
 covering 18 to 300 mm eq, stabilized (because of IBIS) and with
-autofocus, ultralight and extremely small. Add a PEN-F and a light
+automatic focus, ultralight and tiny. Add a PEN-F and a light
 bag and still be below 1 kg :smiley:
