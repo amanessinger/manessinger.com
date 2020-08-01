@@ -1,6 +1,6 @@
 ---
 title: "5036 - Hiking with Sebastian Kurz"
-url: /2020/07/5036-hiking-with-sebastian-kurz.html
+url: /2020/08/5036-hiking-with-sebastian-kurz.html
 publishDate: 2020-08-02 18:00:00
 date: 2020-08-02
 categories: 

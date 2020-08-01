@@ -1,6 +1,6 @@
 ---
 title: "5038 - On the Island"
-url: /2020/07/5038-on-the-island.html
+url: /2020/08/5038-on-the-island.html
 publishDate: 2020-08-04 18:00:00
 date: 2020-08-04
 categories: 
@@ -16,4 +16,4 @@ tags:
 </div>
 <br />
 
-Ond image from inside of the café on the island, then we go on.
+One image from inside of the café on the island, then we go on.

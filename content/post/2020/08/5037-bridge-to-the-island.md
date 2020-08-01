@@ -1,6 +1,6 @@
 ---
 title: "5037 - Bridge to the Island"
-url: /2020/07/5037-bridge-to-the-island.html
+url: /2020/08/5037-bridge-to-the-island.html
 publishDate: 2020-08-03 18:00:00
 date: 2020-08-03
 categories: 

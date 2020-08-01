@@ -1,6 +1,6 @@
 ---
 title: "5035 - Styria!"
-url: /2020/07/5035-styria.html
+url: /2020/08/5035-styria.html
 publishDate: 2020-08-01 18:00:00
 date: 2020-08-01
 categories: 
