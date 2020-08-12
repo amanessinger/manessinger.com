@@ -8,7 +8,6 @@ categories:
 tags: 
   - "italy"
   - "chioggia"
-  - "black-and-white"
   - "ship"
   - "olympus-om-d-e-m1-mk-ii"
 ---

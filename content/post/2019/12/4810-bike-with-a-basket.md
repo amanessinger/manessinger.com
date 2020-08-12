@@ -8,7 +8,6 @@ categories:
 tags: 
   - "italy"
   - "chioggia"
-  - "black-and-white"
   - "bicycle"
   - "olympus-om-d-e-m1-mk-ii"
 ---
