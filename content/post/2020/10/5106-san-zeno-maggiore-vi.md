@@ -1,8 +1,8 @@
 ---
 title: "5106 - San Zeno Maggiore VI"
 url: /2020/10/5106-san-zeno-maggiore-vi.html
-publishDate: 2020-10-10 18:00:00
-date: 2020-10-10
+publishDate: 2020-10-11 18:00:00
+date: 2020-10-11
 categories: 
   - "olympus-m-zuiko-digital-ed-12-40mm-f2-8-pro"
 tags: 
