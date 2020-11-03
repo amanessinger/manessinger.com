@@ -18,3 +18,7 @@ tags:
 
 America is our Empire, America chooses her Emperor today, and the
 whole world prays she chooses wisely :wink:
+
+In other news: we had an islamist terror attack in Vienna. I'm fine,
+the victims unfortunately not. It's a fucked up world, and a little
+bit less hate would be extremely welcome.
