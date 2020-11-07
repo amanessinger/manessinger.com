@@ -17,4 +17,6 @@ tags:
 <br />
 
 Love those Italian facades. I'm pretty sure I wouldn't want to live
-there, but wow, these windoes are gorgeous!
+there, but wow, these windows are gorgeous!
+
+But, what's more important now: America did dump Trump :satisfied:
