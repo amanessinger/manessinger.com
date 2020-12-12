@@ -7,7 +7,7 @@ categories:
   - "olympus-m-zuiko-digital-ed-40-150mm-f2-8-pro"
 tags: 
   - "italy"
-  - "veneto"
+  - "lombardy"
   - "lake"
   - "lago-di-garda"
   - "olympus-om-d-e-m1-mk-ii"
