@@ -4,7 +4,7 @@ url: /2020/12/5176-giardino-botanico-iv.html
 publishDate: 2020-12-20 18:00:00
 date: 2020-12-20
 categories: 
-  - "olympus-m-zuiko-digital-ed-40-150mm-f2-8-pro"
+  - "olympus-m-zuiko-digital-ed-12-40mm-f2-8-pro"
 tags: 
   - "italy"
   - "lombardy"
