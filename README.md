@@ -28,4 +28,5 @@ There are three companion projects:
   is a Go based program, that collects comments from the AWS SQS
   queue and stores them in the local clone of [this blog's
   repo](https://github.com/amanessinger/manessinger.com) on my
-  laptop.
+  laptop. Check it out, compile it (`cd harvest-comments ; go build`) and mv the binary
+  to this project's bin dir.

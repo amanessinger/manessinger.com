@@ -4,17 +4,20 @@
 #
 # Configuration variables
 #
-# Input base directory, for me a VirtualBox shared folder
-#
-IN_BASE_DIR=~/Website
-if [[ -d /mnt/c/Users/micro/Website ]] ; then
-    IN_BASE_DIR=/mnt/c/Users/micro/Website
-fi
+IN_BASE_DIR=$(dirname $(dirname $0))
 
 #
 # Base directory where we convert
 #
-BASEDIR=${HOME}/convert
+BASEDIR=${IN_BASE_DIR}/convert
+[ ! -d $BASEDIR ] && mkdir -p $BASEDIR
+
+#
+# Directory where we expect the input
+#
+INDIR=${IN_BASE_DIR}/tmp
+[ ! -d $INDIR ] && mkdir -p $INDIR
+
 #
 # Name of the AWS S3 target bucket
 #
@@ -23,27 +26,14 @@ BUCKET=manessingercomimages
 ##########################################################################
 
 #
-# Make sure the input directory exists and has input
+# Make sure the input directory has input
 #
-if [[ ! -d ${IN_BASE_DIR}/tmp ]] ; then
-    sudo mount ${IN_BASE_DIR}
-fi
-if [[ ! -d ${IN_BASE_DIR}/tmp ]] ; then
-    echo "$0: ${IN_BASE_DIR}/tmp does not exist, mount may have failed"
-    exit 1
-fi
-files=`echo ${IN_BASE_DIR}/tmp/*`
-if [[ "$files" = "${IN_BASE_DIR}/tmp/*" ]] ; then
-    echo "$0: input directory ${IN_BASE_DIR}/tmp exists but is empty"
+files=$(echo "${INDIR}"/*)
+if [[ "$files" = "${INDIR}/*" ]] ; then
+    echo "$0: input directory ${INDIR} exists but is empty"
     exit 1
 fi
 
-#
-# Make sure the conversion directory exists and we are there
-#
-if [[ ! -d ${BASEDIR} ]] ; then
-    mkdir -p ${BASEDIR}
-fi
 cd ${BASEDIR}
 
 #
@@ -52,8 +42,8 @@ cd ${BASEDIR}
 rm -rf out
 rm -rf tmp
 mkdir tmp
-cp ${IN_BASE_DIR}/tmp/*.jpg tmp/
-cp ${IN_BASE_DIR}/tmp/*.JPG tmp/
+cp ${INDIR}/*.jpg tmp/
+cp ${INDIR}/*.JPG tmp/
 
 #
 # Do the conversions
