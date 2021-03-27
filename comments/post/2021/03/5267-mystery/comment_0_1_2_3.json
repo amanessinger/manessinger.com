@@ -1,0 +1,10 @@
+{
+  "id": 3,
+  "date": "2021-03-23 21:53:05",
+  "attach_to": "comments/post/2021/03/5267-mystery/comment_0_1_2",
+  "author": "Markus",
+  "author_email": "",
+  "author_url": "https://markus-spring.info",
+  "content": "As I do Geo-IT as a bread job, I had a natural interest in this topic - and with some scripting I got a solution that just requires to download the GPS data before the images from the card. With some reverse geocoding I even get the street addresses written into the raw file. ",
+  "indent_level": 2
+}
