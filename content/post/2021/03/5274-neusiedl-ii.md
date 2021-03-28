@@ -16,7 +16,7 @@ tags:
 </div>
 <br />
 
-Neusiedl is a townlet at the northern end of Neusiedlersee,
+Neusiedl is a town at the northern end of Neusiedlersee,
 one of Europe's only two endorheic lakes, the other being
 Lake Balaton in Hungary,
 
