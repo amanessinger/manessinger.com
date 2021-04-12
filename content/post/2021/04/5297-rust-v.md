@@ -11,8 +11,7 @@ tags:
 - "olympus-pen-f"
 ---
 <div class="container">
-<div class="center"><a target="_blank" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2019/20190407_134150_lr.jpg"><img class="webfeedsFeaturedVisual" src="https://d25zfm9zpd7gm5.cloudfront.
-net/0600x0600/2019/20190407_134150_lr.jpg" /></a></div>
+<div class="center"><a target="_blank" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2019/20190407_134150_lr.jpg"><img class="webfeedsFeaturedVisual" src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2019/20190407_134150_lr.jpg" /></a></div>
 </div>
 <br />
 
