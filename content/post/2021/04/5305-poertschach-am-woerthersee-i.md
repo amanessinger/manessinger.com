@@ -7,7 +7,8 @@ categories:
 - "panasonic-lumix-g-vario-12-32mm-3-5-5-6-asph"
 tags:
 - "austria"
-- "burgenland"
+- "carinthia"
+- "karnten" 
 - "olympus-pen-f"
 ---
 <div class="container">
