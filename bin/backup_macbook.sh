@@ -9,6 +9,15 @@ for d in 20* ; do
   rsync -rv --size-only --delete "$d" "/Volumes/Photos/Lightroom/$d"
 done
 
+## Images in manessinger.com ########################################
+
+cd ~/Pictures/images_in_manessinger.com || exit 1
+mkdir -p /Volumes/Photos/images_in_manessinger.com/
+
+for d in 20* ; do
+  rsync -rv --size-only --delete "$d" "/Volumes/Photos/images_in_manessinger.com/$d"
+done
+
 ## MUSIC ############################################################
 
 cd ~/Music || exit 1
