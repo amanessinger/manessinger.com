@@ -36,6 +36,10 @@ for d in * ; do
   rsync -rv --size-only --delete "$d" "/Volumes/Photos/Music/$d"
 done
 
+## GOOGLE DRIVE #####################################################
+
+rsync -rv --size-only --delete ~/Google\ Drive /Volumes/Photos/Google\ Drive
+
 ## DONE #############################################################
 
 exit 0
