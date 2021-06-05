@@ -1,6 +1,6 @@
 ---
 title: "5341 - Laxenburg XXXI"
-url: /2021/05/5341-laxenburg-xxxi.html
+url: /2021/06/5341-laxenburg-xxxi.html
 publishDate: 2021-06-03 18:00:00
 date: 2021-06-03
 categories:
