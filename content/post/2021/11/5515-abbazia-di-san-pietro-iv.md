@@ -1,8 +1,8 @@
 ---
 title: "5515 - Abbazia di San Pietro IV"
 url: /2021/11/5515-abbazia-di-san-pietro-iv.html
-publishDate: 2021-11-23 18:00:00
-date: 2021-11-23
+publishDate: 2021-11-24 18:00:00
+date: 2021-11-24
 categories:
 - "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro"
 tags:

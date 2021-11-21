@@ -1,8 +1,8 @@
 ---
 title: "5512 - Abbazia di San Pietro I"
 url: /2021/11/5512-abbazia-di-san-pietro-i.html
-publishDate: 2021-11-20 18:00:00
-date: 2021-11-20
+publishDate: 2021-11-21 18:00:00
+date: 2021-11-21
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:

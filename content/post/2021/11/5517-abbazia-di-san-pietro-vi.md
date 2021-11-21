@@ -1,8 +1,8 @@
 ---
 title: "5517 - Abbazia di San Pietro VI"
 url: /2021/11/5517-abbazia-di-san-pietro-vi.html
-publishDate: 2021-11-25 18:00:00
-date: 2021-11-25
+publishDate: 2021-11-26 18:00:00
+date: 2021-11-26
 categories:
 - "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro"
 tags:

@@ -1,8 +1,8 @@
 ---
 title: "5516 - Abbazia di San Pietro V"
 url: /2021/11/5516-abbazia-di-san-pietro-v.html
-publishDate: 2021-11-24 18:00:00
-date: 2021-11-24
+publishDate: 2021-11-25 18:00:00
+date: 2021-11-25
 categories:
 - "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro"
 tags:

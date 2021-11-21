@@ -1,8 +1,8 @@
 ---
 title: "5514 - Abbazia di San Pietro III"
 url: /2021/11/5514-abbazia-di-san-pietro-iii.html
-publishDate: 2021-11-22 18:00:00
-date: 2021-11-22
+publishDate: 2021-11-23 18:00:00
+date: 2021-11-23
 categories:
 - "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro"
 tags:
