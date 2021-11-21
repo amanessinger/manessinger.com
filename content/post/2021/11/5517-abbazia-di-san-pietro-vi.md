@@ -17,4 +17,4 @@ tags:
 </div>
 <br />
 
-Last image from inside. Promise :stuck_out_tongue:
+Last image from inside. I Promise :stuck_out_tongue:
