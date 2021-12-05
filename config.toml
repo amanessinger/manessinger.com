@@ -2,6 +2,7 @@ baseurl = "https://blog.andreas-manessinger.info/"
 languageCode = "en-us"
 title = "Andreas Manessinger"
 theme = "manessinger_com"
+#theme = "handwerk"
 preserveTaxonomyNames = true
 rssLimit = 30
 paginate = 10
@@ -10,7 +11,7 @@ pygmentsStyle = "native"
 enableEmoji = true
 
 [taxonomies]
-    category = "categories"  
+    category = "categories"
     tag = "tags"
 
 [permalinks]
@@ -21,7 +22,7 @@ enableEmoji = true
     name = "About"
     url = "/about/"
     weight = -110
-    
+
 [[menu.main]]
     name = "Tags"
     url = "/tags"
