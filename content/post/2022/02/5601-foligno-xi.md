@@ -17,18 +17,17 @@ tags:
 <br />
 
 My birthday is approaching. Nothing special, just a 58, but
-around that time, OM Systems, the company, that bought
-Olympus' camera business, will release a new camera. It's
-not yet clear what it will be called, but spiritually it
-seems to be the OM-D E-M1 iv.
+just now, OM Systems, the company, that bought
+Olympus' camera business, has released a new camera. It's
+called the OM-1, which is fine, much better than _OM-D E-M1 mk iv_.
 
-I own a lot of expensive Olympus glass, so, I probably would
-have bought it anyway, if only to extend the relevance of my
-lenses. 
+I own a lot of Olympus glass, some expensive, some cheap,
+so, I probably would have bought it anyway, if only to
+extend the relevance of my lenses.
 
 Some people hoped for more than 20 Megapixels, some for
-extended dynamic range, and it seems, it will only be
-dynamic range.
+extended dynamic range, turned out it was only dynamic
+range.
 
 I don't care. What I really care about, is the electronic
 viewfinder. Basically they've doubled the pixels, giving it
