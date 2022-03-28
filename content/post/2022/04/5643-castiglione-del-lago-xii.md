@@ -1,8 +1,8 @@
 ---
 title: "5643 - Castiglione del Lago XII"
-url: /2022/03/5643-castiglione-del-lago-xii.html
-publishDate: 2022-03-31 18:00:00
-date: 2022-03-31
+url: /2022/04/5643-castiglione-del-lago-xii.html
+publishDate: 2022-04-01 18:00:00
+date: 2022-04-01
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:

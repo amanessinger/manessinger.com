@@ -1,8 +1,8 @@
 ---
 title: "5640 - Castiglione del Lago IX"
 url: /2022/03/5640-castiglione-del-lago-ix.html
-publishDate: 2022-03-28 18:00:00
-date: 2022-03-28
+publishDate: 2022-03-29 18:00:00
+date: 2022-03-29
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:

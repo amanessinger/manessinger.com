@@ -1,8 +1,8 @@
 ---
 title: "5641 - Castiglione del Lago X"
 url: /2022/03/5641-castiglione-del-lago-x.html
-publishDate: 2022-03-29 18:00:00
-date: 2022-03-29
+publishDate: 2022-03-30 18:00:00
+date: 2022-03-30
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:
