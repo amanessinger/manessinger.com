@@ -42,4 +42,10 @@ rsync -rv --size-only --delete ~/Google\ Drive /Volumes/Photos/Google\ Drive
 
 ## DONE #############################################################
 
+## THUNDERBIRD MAIL #################################################
+
+rsync -rv --size-only --delete ~/Library/Thunderbird/Profiles /Volumes/Photos/Thunderbird_Profiles
+
+## DONE #############################################################
+
 exit 0
