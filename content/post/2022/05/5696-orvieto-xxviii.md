@@ -1,6 +1,6 @@
 ---
-title: "5696 - Orvieto XXVII"
-url: /2022/05/5696-orvieto-xxvii.html
+title: "5696 - Orvieto XXVIII"
+url: /2022/05/5696-orvieto-xxviiI.html
 publishDate: 2022-05-24 18:00:00
 date: 2022-05-24
 categories:
