@@ -17,4 +17,5 @@ tags:
 </div>
 <br />
 
-Once again, this time with tower top.
+Once again, this time with tower top. By the way, this is
+the Chiesa di Sant'Andrea.
