@@ -4,7 +4,7 @@ url: /2022/06/5716-orvieto-xlviii.html
 publishDate: 2022-06-13 18:00:00
 date: 2022-06-13
 categories:
-- "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
+- "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro"
 tags:
 - "italy"
 - "umbria"

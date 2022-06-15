@@ -1,6 +1,6 @@
 ---
-title: "5719 - Orvieto XLXI"
-url: /2022/06/5719-orvieto-xlxi.html
+title: "5719 - Orvieto LI"
+url: /2022/06/5719-orvieto-li.html
 publishDate: 2022-06-16 18:00:00
 date: 2022-06-16
 categories:
