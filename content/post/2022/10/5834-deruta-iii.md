@@ -1,8 +1,8 @@
 ---
 title: "5834 - Deruta III"
 url: /2022/10/5834-deruta-iii.html
-publishDate: 2022-10-09 18:00:00
-date: 2022-10-09
+publishDate: 2022-10-10 18:00:00
+date: 2022-10-10
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:

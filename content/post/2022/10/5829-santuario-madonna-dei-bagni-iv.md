@@ -1,8 +1,8 @@
 ---
 title: "5829 - Santuario Madonna dei Bagni IV"
 url: /2022/10/5829-santuario-madonna-dei-bagni-iv.html
-publishDate: 2022-10-04 18:00:00
-date: 2022-10-04
+publishDate: 2022-10-05 18:00:00
+date: 2022-10-05
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:
