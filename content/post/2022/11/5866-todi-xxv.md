@@ -16,4 +16,4 @@ tags:
 </div>
 <br />
 
-An extremly wide view up and back to the entrance.
+An extremely wide view up and back to the entrance.
