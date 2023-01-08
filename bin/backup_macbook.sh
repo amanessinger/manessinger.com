@@ -38,7 +38,7 @@ done
 
 ## GOOGLE DRIVE #####################################################
 
-rsync -rv --size-only --delete ~/Google\ Drive /Volumes/Photos/Google\ Drive
+rsync -rv --size-only --delete ~/My\ Drive /Volumes/Photos/
 
 ## DONE #############################################################
 
