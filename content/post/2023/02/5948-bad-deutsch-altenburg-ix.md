@@ -1,7 +1,7 @@
 ---
 title: "5948 - Bad Deutsch-Altenburg IX"
 url: /2023/02/5948-bad-deutsch-altenburg-ix.html
-publishDate: 2023-02-02 18:00:00
+publishDate: 2023-02-01 18:00:00
 date: 2023-02-01
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
