@@ -18,5 +18,5 @@ tags:
 
 I really like that image. It's what happens, when you take a
 wide-angle image upwards, and then correct the perspective
-in post. It makes earth tiny and the sky incredibly big. It
+in post. It makes earth tiny and the sky incredibly big. I
 think it works here, with the sun in the center.
