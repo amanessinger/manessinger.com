@@ -17,4 +17,4 @@ tags:
 </div>
 <br />
 
-For some reason, this images worked much better in B&amp;W.
+For some reason, this image worked much better in B&amp;W.
