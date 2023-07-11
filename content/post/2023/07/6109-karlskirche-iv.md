@@ -4,7 +4,7 @@ url: /2023/07/6109-karlskirche-iv.html
 publishDate: 2023-07-12 18:00:00
 date: 2023-07-12
 categories:
-  - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
+  - "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro"
 tags:
 - "austria"
 - "wien"
