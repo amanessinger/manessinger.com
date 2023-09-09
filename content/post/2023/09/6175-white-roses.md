@@ -16,4 +16,4 @@ tags:
 </div>
 <br />
 
-The more the better! Here's a few white ones.
+The more, the better! Here's a few white ones.
