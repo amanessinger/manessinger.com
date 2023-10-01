@@ -17,5 +17,5 @@ tags:
 <br />
 
 The Commies were collectivists, and the individual was never
-valued in Russia. Only one grave for all Rissian heroes.
+valued in Russia. Only one grave for all Russian heroes.
 Isn't war absurd?
