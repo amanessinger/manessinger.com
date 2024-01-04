@@ -1,50 +1,59 @@
 #!/usr/bin/env bash
 
+if [ -d /Volumes/Photos ] ; then
+  TARGET=/Volumes/Photos
+elif [ -d /Volumes/Speedy ]; then
+  TARGET=/Volumes/Speedy
+else
+  echo "No backup device" && exit 1
+fi
+
+
 ## PICS #############################################################
 
 cd ~/Pictures/Lightroom || exit 1
-mkdir -p /Volumes/Photos/Lightroom/
+mkdir -p $TARGET/Lightroom/
 
 for d in 20* ; do
-  rsync -rv --size-only --delete "$d" "/Volumes/Photos/Lightroom/$d"
+  rsync -rv --size-only --delete "$d" "$TARGET/Lightroom/$d"
 done
 
 ## Images in manessinger.com ########################################
 
 cd ~/Pictures/images_in_manessinger.com || exit 1
-mkdir -p /Volumes/Photos/images_in_manessinger.com/
+mkdir -p $TARGET/images_in_manessinger.com/
 
 for d in 20* ; do
-  rsync -rv --size-only --delete "$d" "/Volumes/Photos/images_in_manessinger.com/$d"
+  rsync -rv --size-only --delete "$d" "$TARGET/images_in_manessinger.com/$d"
 done
 
 ## MUSIC ############################################################
 
 cd ~/Music || exit 1
-mkdir -p /Volumes/Photos/Music/
+mkdir -p $TARGET/Music/
 
 for d in Classic Misc other ; do
-  rsync -rv --size-only --delete "$d" "/Volumes/Photos/Music/$d"
+  rsync -rv --size-only --delete "$d" "$TARGET/Music/$d"
 done
 
 ## SRC ##############################################################
 
 cd ~/src || exit 1
-mkdir -p /Volumes/Photos/src/
+mkdir -p $TARGET/src/
 
 for d in * ; do
-  rsync -rv --size-only --delete "$d" "/Volumes/Photos/Music/$d"
+  rsync -rv --size-only --delete "$d" "$TARGET/Music/$d"
 done
 
 ## GOOGLE DRIVE #####################################################
 
-rsync -rv --size-only --delete ~/My\ Drive /Volumes/Photos/
+rsync -rv --size-only --delete ~/My\ Drive $TARGET/
 
 ## DONE #############################################################
 
 ## THUNDERBIRD MAIL #################################################
 
-rsync -rv --size-only --delete ~/Library/Thunderbird/Profiles /Volumes/Photos/Thunderbird_Profiles
+rsync -rv --size-only --delete ~/Library/Thunderbird/Profiles $TARGET/Thunderbird_Profiles
 
 ## DONE #############################################################
 
