@@ -35,6 +35,15 @@ for d in 20* ; do
   rsync -rv --size-only --delete "$d" "$TARGET/images_in_manessinger.com/"
 done
 
+## Images in Pictures ###############################################
+
+cd ~/Pictures || exit 1
+
+
+for d in susi ; do
+  rsync -rv --size-only --delete "$d" "$TARGET/"
+done
+
 ## MUSIC ############################################################
 
 cd ~/Music || exit 1
