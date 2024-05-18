@@ -8,7 +8,6 @@ categories:
 tags:
 - "Italy"
 - "south-tyrol"
-- "black-and-white"
 - "olympus-om-d-e-m1-mk-iii"
 ---
 <div class="container">
