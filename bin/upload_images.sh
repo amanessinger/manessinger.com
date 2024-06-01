@@ -61,11 +61,12 @@ cp ${INDIR}/*.JPG tmp/
 		    fi
 		    echo "Converting ${img} to size ${size}"
 		    mkdir -p out/${size}/${year}
-		    convert \
-			-filter Lanczos \
-			-resize "${size}>" \
-			-unsharp 1x1+0.2+0.05 \
-			${img} out/${size}/${year}/${imgbase}
+		    magick \
+          ${img} \
+          -filter Lanczos \
+          -resize "${size}>" \
+          -unsharp 1x1+0.2+0.05 \
+          out/${size}/${year}/${imgbase}
 		    echo "  done."
 		    echo ""
 		done
