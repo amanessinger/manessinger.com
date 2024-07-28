@@ -10,15 +10,15 @@
     <div class="article-content">
       {{ .Content }}
     </div>
- 
+
     <ul class="article-taxonomy">
-      {{ if .Params.categories }}            
+      {{ if .Params.categories }}
       <hr>
       <li>
         <i class="fa fa-category"></i>{{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}{{ end }}<a href="{{ "categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
       </li>
       {{ end }}
-    
+
       {{ if .Params.tags }}
       <li>
         <i class="fa fa-tags"></i>{{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}{{ end }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
@@ -57,7 +57,14 @@
     <h3>There are {{ len $files }} comments</h3>
     {{ range $files }}
       {{ $comment_fqfn := print $dir "/" .Name }}
-      {{ $comment := getJSON $comment_fqfn }}
+      {{ $comment := dict }}
+      {{ with resources.Get $comment_fqfn }}
+        {{ with . | transform.Unmarshal }}
+          {{ $comment = . }}
+        {{ end }}
+      {{ else }}
+        {{ continue }}
+      {{ end }}
       {{ $comment_fq := replace $comment_fqfn ".json" "" }}
       {{ $comment_secret := print $secret $comment_fq }}
       {{ $comment_hash := sha256 $comment_secret }}
