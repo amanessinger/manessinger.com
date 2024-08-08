@@ -4,7 +4,7 @@ url: /2024/08/6499-penser-joch-ii.html
 publishDate: 2024-08-06 18:00:00
 date: 2024-08-06
 categories:
-- "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
+- "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro"
 tags:
 - "Italy"
 - "south-tyrol"
