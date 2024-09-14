@@ -17,6 +17,6 @@ tags:
 
 Lorenzi. There is a dealer of fine knives of the same name
 in Vienna. This is not a chain. They are not commercially
-connected, but a a family Lorenzi from Trentino has been
+connected, but a family Lorenzi from Trentino has been
 famous for fine knives and scissors for centuries. I suppose
 they are related.
