@@ -1,5 +1,5 @@
 ---
-title: "6583-Lana-I"
+title: "6583 - Lana I"
 url: /2024/10/6583-lana-i.html
 publishDate: 2024-10-29 18:00:00
 date: 2024-10-29

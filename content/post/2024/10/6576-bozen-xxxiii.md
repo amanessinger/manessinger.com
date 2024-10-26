@@ -9,6 +9,7 @@ tags:
 - "Italy"
 - "south-tyrol"
 - "olympus-om-d-e-m1-mk-iii"
+- "generative-ai"
 ---
 <div class="container">
 <div class="center"><a target="_blank" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2020/20200907_120624_lr.jpg"><img class="webfeedsFeaturedVisual" src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2020/20200907_120624_lr.jpg" /></a></div>
