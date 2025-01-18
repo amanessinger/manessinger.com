@@ -1,8 +1,8 @@
 ---
 title: "6665 - Outskirts I"
 url: /2025/01/6665-outskirts-i.html
-publishDate: 2025-01-18 18:00:00
-date: 2025-01-18
+publishDate: 2025-01-19 18:00:00
+date: 2025-01-19
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:

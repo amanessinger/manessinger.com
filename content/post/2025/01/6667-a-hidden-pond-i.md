@@ -1,8 +1,8 @@
 ---
 title: "6667 - A Hidden Pond I"
 url: /2025/01/6667-a-hidden-pond-i.html
-publishDate: 2025-01-20 18:00:00
-date: 2025-01-20
+publishDate: 2025-01-21 18:00:00
+date: 2025-01-21
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:
