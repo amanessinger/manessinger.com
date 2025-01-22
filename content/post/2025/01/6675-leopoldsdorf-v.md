@@ -1,8 +1,8 @@
 ---
-title: "6674 - Leopoldsdorf V"
-url: /2025/01/6674-leopoldsdorf-v.html
-publishDate: 2025-01-28 18:00:00
-date: 2025-01-28
+title: "6675 - Leopoldsdorf V"
+url: /2025/01/6675-leopoldsdorf-v.html
+publishDate: 2025-01-29 18:00:00
+date: 2025-01-29
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:
