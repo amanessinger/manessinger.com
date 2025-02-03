@@ -1,8 +1,8 @@
 ---
 title: "6680 - The Linden Tree - Closed"
 url: /2025/02/6680-the-linden-tree-closed.html
-publishDate: 2025-02-04 18:00:00
-date: 2025-02-04
+publishDate: 2025-02-03 18:00:00
+date: 2025-02-03
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:

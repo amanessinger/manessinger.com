@@ -1,8 +1,8 @@
 ---
 title: "6686 - Some ... Machine?"
 url: /2025/02/6686-some-machine.html
-publishDate: 2025-02-10 18:00:00
-date: 2025-02-10
+publishDate: 2025-02-09 18:00:00
+date: 2025-02-09
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:

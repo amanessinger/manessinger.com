@@ -1,8 +1,8 @@
 ---
 title: "6679 - Scales"
 url: /2025/02/6679-scales.html
-publishDate: 2025-02-03 18:00:00
-date: 2025-02-03
+publishDate: 2025-02-02 18:00:00
+date: 2025-02-02
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:

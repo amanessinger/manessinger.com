@@ -1,8 +1,8 @@
 ---
 title: "6682 - Triple Power"
 url: /2025/02/6682-triple-power.html
-publishDate: 2025-02-06 18:00:00
-date: 2025-02-06
+publishDate: 2025-02-05 18:00:00
+date: 2025-02-05
 categories:
 - "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro"
 tags:
