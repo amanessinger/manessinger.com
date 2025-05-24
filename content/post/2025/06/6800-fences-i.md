@@ -1,8 +1,8 @@
 ---
 title: "6800 - Fences I"
 url: /2025/06/6800-fences-i.html
-publishDate: 2025-06-01 18:00:00
-date: 2025-06-01
+publishDate: 2025-06-02 18:00:00
+date: 2025-06-02
 categories:
   - "mitakon-speedmaster-250-95"
 tags:
