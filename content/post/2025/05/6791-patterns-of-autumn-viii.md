@@ -1,8 +1,8 @@
 ---
 title: "6791 - Patterns of Autumn VIII"
 url: /2025/05/6791-patterns-of-autumn-viii.html
-publishDate: 2025-05-24 18:00:00
-date: 2025-05-24
+publishDate: 2025-05-25 18:00:00
+date: 2025-05-25
 categories:
   - "mitakon-speedmaster-250-95"
 tags:

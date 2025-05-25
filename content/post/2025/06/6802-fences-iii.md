@@ -1,8 +1,8 @@
 ---
 title: "6802 - Fences III"
 url: /2025/06/6802-fences-iii.html
-publishDate: 2025-06-04 18:00:00
-date: 2025-06-04
+publishDate: 2025-06-05 18:00:00
+date: 2025-06-05
 categories:
   - "mitakon-speedmaster-250-95"
 tags:

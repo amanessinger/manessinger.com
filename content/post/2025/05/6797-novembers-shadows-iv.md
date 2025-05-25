@@ -1,8 +1,8 @@
 ---
 title: "6797 - November's Shadows IV"
 url: /2025/05/6797-novembers-shadows-iv.html
-publishDate: 2025-05-30 18:00:00
-date: 2025-05-30
+publishDate: 2025-05-31 18:00:00
+date: 2025-05-31
 categories:
   - "mitakon-speedmaster-425-12"
 tags:

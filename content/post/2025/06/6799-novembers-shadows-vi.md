@@ -1,8 +1,8 @@
 ---
 title: "6799 - November's Shadows VI"
 url: /2025/06/6799-novembers-shadows-vi.html
-publishDate: 2025-06-01 18:00:00
-date: 2025-06-01
+publishDate: 2025-06-02 18:00:00
+date: 2025-06-02
 categories:
   - "mitakon-speedmaster-425-12"
 tags:

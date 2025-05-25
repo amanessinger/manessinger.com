@@ -1,8 +1,8 @@
 ---
 title: "6793 - November's Shadows I"
 url: /2025/05/6793-novembers-shadows-i.html
-publishDate: 2025-05-26 18:00:00
-date: 2025-05-26
+publishDate: 2025-05-27 18:00:00
+date: 2025-05-27
 categories:
   - "mitakon-speedmaster-250-95"
 tags:
