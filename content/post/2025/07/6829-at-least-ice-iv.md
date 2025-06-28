@@ -9,6 +9,7 @@ tags:
   - "austria"
   - "wien"
   - "vienna"
+  - "black-and-white"
   - "olympus-pen-f"
 ---
 <div class="container">
