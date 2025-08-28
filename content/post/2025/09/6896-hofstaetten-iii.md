@@ -7,8 +7,8 @@ categories:
   - "laowa-7-5mm-f2"
 tags:
   - "austria"
-  - "wien"
-  - "vienna"
+  - "niederosterreich"
+  - "niederoesterreich"
   - "olympus-pen-f"
 ---
 <div class="container">
