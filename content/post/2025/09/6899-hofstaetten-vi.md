@@ -16,4 +16,4 @@ tags:
 </div>
 <br />
 
-Low, and a quare crop, and something around f8.
+Low, and a square crop, and something around f8.
