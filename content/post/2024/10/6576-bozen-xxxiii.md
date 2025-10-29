@@ -25,7 +25,7 @@ those frescoes?
 Maybe this is a job for generative AI? Let's make an experiment:
 
 <div class="container">
-<div class="center"><a target="_blank" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2020/20200907_120624_ai_lr.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2020/20200907_120624_ai_lr.jpg" /></a></div>
+<div class="center"><a target="_blank" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2020/20200907_120624_ai_lr.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2020/20200907_120624_ai_lr.jpg" /></a></div>
 </div>
 <br />
 

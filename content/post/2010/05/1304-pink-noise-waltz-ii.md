@@ -41,7 +41,7 @@ The next detail is from yesterday's train image. This is from the bright part wi
 
 Unfortunately this is over as soon as we get into the dark parts. The profiled Noise Ninja is really bad at removing color noise. 
 
-<a target="_blank" rel="none" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/misc/d200-iso1600-night-pushed-final-topaz.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/misc/d200-iso1600-night-pushed-final-topaz.jpg" /></a>
+<a target="_blank" rel="none" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/misc/d200-iso1600-night-pushed-final-topaz.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/misc/d200-iso1600-night-pushed-final-topaz.jpg" /></a>
 
 The next image is quite old and it was taken with the D200, a Nikon 50/1.8 at f4, 1/40s, -0.33EV and ISO 1600. The effective ISO is somewhere around 2000. The image is interesting, because it has a lot of architectural detail, combined with a still blue sky.
 

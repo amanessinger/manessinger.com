@@ -22,7 +22,7 @@ fix the resulting distortions, but you normally lose a lot.
 Just like in this version:
 
 <div class="container">
-<div class="center"><a target="_blank" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2020/20200907_134207_lr.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2020/20200907_134207_lr.jpg" /></a></div>
+<div class="center"><a target="_blank" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2020/20200907_134207_lr.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2020/20200907_134207_lr.jpg" /></a></div>
 </div>
 <br />
 

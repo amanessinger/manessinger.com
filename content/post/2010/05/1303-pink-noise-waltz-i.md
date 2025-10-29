@@ -11,7 +11,9 @@ tags:
   - "nikon-d300"
   - "topaz-denoise-4-review"
 ---
+<div class="container">
 <a target="_blank" rel="none" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/misc/d300-iso6400-night-final-topaz.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/misc/d300-iso6400-night-final-topaz.jpg" /></a>
+</div>
 
 It's Sunday night, I'm on the train to Vienna and I have not taken a single image all through the weekend. I've processed quite a few though.
 
@@ -39,9 +41,7 @@ That's what we see in the Image of the Day. I took this image sometime last wint
 
 The full image was made with Topaz Denoise 4. In Adobe Camera RAW I have completely disabled noise reduction and I have set the exposure parameters so that the histogram fills the whole range. Then I have prepared four different details for you:
 
-<div class="container">
 <div class="center"><a title="Detail 1 - Adobe Camera RAW" href="https://d25zfm9zpd7gm5.cloudfront.net/tutorials/topaz_denoise4_01/d300-iso6400-night-detail1-raw.jpg" rel=lightbox[1]><img style="margin: 10pt 10px 10pt 10px;" src="https://d25zfm9zpd7gm5.cloudfront.net/tutorials/topaz_denoise4_01/thumbs/d300-iso6400-night-detail1-raw.jpg" alt="" border="0" /></a><a title="Detail 1 - Noise Ninja" href="https://d25zfm9zpd7gm5.cloudfront.net/tutorials/topaz_denoise4_01/d300-iso6400-night-detail1-noiseninja.jpg" rel=lightbox[1]><img style="margin: 10pt 10px 10pt 10px;" src="https://d25zfm9zpd7gm5.cloudfront.net/tutorials/topaz_denoise4_01/thumbs/d300-iso6400-night-detail1-noiseninja.jpg" alt="" border="0" /></a><a title="Detail 1 - Topaz Denoise 4" href="https://d25zfm9zpd7gm5.cloudfront.net/tutorials/topaz_denoise4_01/d300-iso6400-night-detail1-topazdenoise.jpg" rel=lightbox[1]><img style="margin: 10pt 10px 10pt 10px;" src="https://d25zfm9zpd7gm5.cloudfront.net/tutorials/topaz_denoise4_01/thumbs/d300-iso6400-night-detail1-topazdenoise.jpg" alt="" border="0" /></a></div>
-</div>
 
 This first detail shows an area where we have some sharpness and some soft transitions in the billows. The RAW image is completely unusable, Noise Ninja has eliminated much noise but also most of the texture, and while Denoise comes out smoothest and a pretty soft, it has more detail than Noise Ninja and none of that mottled look that comes from low frequency color noise. In my book Denoise wins easily.
 
@@ -63,7 +63,7 @@ This is the downfall for Noise Ninja. Again we see the mottled look, awkwardly o
 
 The last detail from this image shows more of the same. Low frequency color noise, the windows in the background are hardly recognizable in the Noise Ninja version, while they are clearly defined in the Topaz version. For this image, D300, ISO 6400, night scene, Topaz Denoise is definitely the better choice.
 
-<a target="_blank" rel="none" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/misc/d200-iso0900-night-pushed-final-topaz.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/misc/d200-iso0900-night-pushed-final-topaz.jpg" /></a>
+<a target="_blank" rel="none" href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/misc/d200-iso0900-night-pushed-final-topaz.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/misc/d200-iso0900-night-pushed-final-topaz.jpg" /></a>
 
 The next image, an old one, was taken with the Nikon D200, a Nikon 50/1.8 at f1.8, 1/30s, ISO 900 and -1EV, thus we're really looking at an equivalent of ISO 1800 here. The D200 has a much noisier sensor, thus we are in desperate need of noise reduction.
 

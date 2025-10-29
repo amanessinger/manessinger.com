@@ -23,7 +23,7 @@ I'm hearing Holly Golightly right now. While looking up the lyrics of the Song o
 I still haven't submitted the order though.
 
 <div class="container">
-<div class="center"><a target="_blank" href="http://www.flickr.com/photos/amanessinger/12141198313/sizes/k/"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2014/20140125_132829-Edit_lr.jpg" /></a></div>
+<div class="center"><a target="_blank" href="http://www.flickr.com/photos/amanessinger/12141198313/sizes/k/"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2014/20140125_132829-Edit_lr.jpg" /></a></div>
 </div>
 <br />
 

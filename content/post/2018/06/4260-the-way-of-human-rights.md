@@ -50,7 +50,7 @@ I have already played around with <a href="https://hexo.io/" rel="noopener" targ
     date: 2018-05-03 20:00:24
     ---
     
-    [![](https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2017/20170619_150154_lr.jpg)](https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_150154_lr.jpg)
+    [![](https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_150154_lr.jpg)](https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_150154_lr.jpg)
     
     [![](https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2017/20170619_135026_lr.jpg)](https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_135026_lr.jpg) 
     You can't erase your past. You have to live with it. So does Nuremberg. 
@@ -68,7 +68,7 @@ padding:20px; border:solid black 1px;"><h1>4214 - The Congress Hall  From Afar V
         Posted on May 3, 2018
       </div>
       <a href="#">#Architecture</a> <a href="#">#Boats</a> <a href="#">#Germany</a> <a href="#">#Lake</a> <a href="#">#National Socialism</a> <a href="#">#Nuremberg</a> <a href="#">#Olympus OM-D E-M1 Mk II</a>
-    </div><p><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_150154_lr.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0600x0600/2017/20170619_150154_lr.jpg" alt="" /></a></p>
+    </div><p><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_150154_lr.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_150154_lr.jpg" alt="" /></a></p>
 
 <p><a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_135026_lr.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2017/20170619_135026_lr.jpg" alt="" /></a> You can&rsquo;t erase your past. You have to live with it. So does Nuremberg. <a href="https://d25zfm9zpd7gm5.cloudfront.net/1200x1200/2017/20170619_135044_lr.jpg"><img src="https://d25zfm9zpd7gm5.cloudfront.net/0150x0150/2017/20170619_135044_lr.jpg" alt="" /></a> Doesn&rsquo;t the Image of the Day look peaceful? The war has been over for more than 70 years and we all hope it will have been the last. It has not been so in much of the world, but this does not mean things can&rsquo;t improve, can they?</p></div><br />
 
