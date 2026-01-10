@@ -15,4 +15,4 @@ tags:
 </div>
 <br />
 
-At the market square. This could as well be Italy of France.
+At the market square. This could as well be Italy or France.
