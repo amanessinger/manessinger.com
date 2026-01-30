@@ -15,4 +15,4 @@ tags:
 </div>
 <br />
 
-We leave as we came. Again I couldn't resist the boats :grin:
+We left as we came. Again I couldn't resist the boats :grin:
