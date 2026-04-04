@@ -16,4 +16,4 @@ tags:
 </div>
 <br />
 
-Aaand ... already in a church. That went quickly :stuck_out_tongue_closed_eyes:
+Aaand ... already in a church. That escalated quickly :stuck_out_tongue_closed_eyes:
