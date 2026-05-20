@@ -1,5 +1,5 @@
 baseurl = "https://example.org/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Natrium Theme"
 theme = "hugo-natrium-theme"
 preserveTaxonomyNames = true
@@ -9,7 +9,7 @@ pygmentsCodefences = true
 pygmentsStyle = "native"
 
 [taxonomies]
-    category = "categories"  
+    category = "categories"
     tag = "tags"
 
 [permalinks]
@@ -20,7 +20,7 @@ pygmentsStyle = "native"
     name = "About"
     url = "/about/"
     weight = -110
-    
+
 [[menu.main]]
     name = "Tags"
     url = "/tags"

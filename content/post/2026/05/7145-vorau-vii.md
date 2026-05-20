@@ -1,6 +1,6 @@
 ---
 title: "7145 - Vorau VII"
-url: /2026/04/7145-vorau-vii.html
+url: /2026/05/7145-vorau-vii.html
 publishDate: 2026-05-14 19:00:00
 date: 2026-05-14
 categories:

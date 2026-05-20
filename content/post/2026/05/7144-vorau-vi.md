@@ -1,6 +1,6 @@
 ---
 title: "7144 - Vorau VI"
-url: /2026/04/7144-vorau-vi.html
+url: /2026/05/7144-vorau-vi.html
 publishDate: 2026-05-13 19:00:00
 date: 2026-05-13
 categories:

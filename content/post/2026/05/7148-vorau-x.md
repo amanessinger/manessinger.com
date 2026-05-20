@@ -1,6 +1,6 @@
 ---
 title: "7148 - Vorau X"
-url: /2026/04/7148-vorau-x.html
+url: /2026/05/7148-vorau-x.html
 publishDate: 2026-05-17 19:00:00
 date: 2026-05-17
 categories:

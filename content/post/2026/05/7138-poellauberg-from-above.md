@@ -1,6 +1,6 @@
 ---
 title: "7138 - Pöllauberg from above"
-url: /2026/04/7138-poellauberg-from-above.html
+url: /2026/05/7138-poellauberg-from-above.html
 publishDate: 2026-05-07 19:00:00
 date: 2026-05-07
 categories:

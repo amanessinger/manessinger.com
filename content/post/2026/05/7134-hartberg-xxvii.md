@@ -1,6 +1,6 @@
 ---
 title: "7134 - Hartberg XXVII"
-url: /2026/04/7134-hartberg-xxvii.html
+url: /2026/05/7134-hartberg-xxvii.html
 publishDate: 2026-05-03 19:00:00
 date: 2026-05-03
 categories:

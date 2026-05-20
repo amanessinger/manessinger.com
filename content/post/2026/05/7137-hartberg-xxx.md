@@ -1,6 +1,6 @@
 ---
 title: "7137 - Hartberg XXX"
-url: /2026/04/7137-hartberg-xxx.html
+url: /2026/05/7137-hartberg-xxx.html
 publishDate: 2026-05-06 19:00:00
 date: 2026-05-06
 categories:

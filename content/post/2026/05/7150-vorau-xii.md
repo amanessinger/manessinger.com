@@ -1,6 +1,6 @@
 ---
 title: "7150 - Vorau XII"
-url: /2026/04/7150-vorau-xii.html
+url: /2026/05/7150-vorau-xii.html
 publishDate: 2026-05-19 19:00:00
 date: 2026-05-19
 categories:

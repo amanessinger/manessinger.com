@@ -1,6 +1,6 @@
 ---
 title: "7153 - Vorau XV"
-url: /2026/04/7153-vorau-xv.html
+url: /2026/05/7153-vorau-xv.html
 publishDate: 2026-05-22 19:00:00
 date: 2026-05-22
 categories:

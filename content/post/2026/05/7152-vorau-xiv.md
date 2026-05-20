@@ -1,6 +1,6 @@
 ---
 title: "7152 - Vorau XIV"
-url: /2026/04/7152-vorau-xiv.html
+url: /2026/05/7152-vorau-xiv.html
 publishDate: 2026-05-21 19:00:00
 date: 2026-05-21
 categories:

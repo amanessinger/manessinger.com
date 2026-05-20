@@ -1,6 +1,6 @@
 ---
 title: "7142 - Vorau IV"
-url: /2026/04/7142-vorau-iv.html
+url: /2026/05/7142-vorau-iv.html
 publishDate: 2026-05-11 19:00:00
 date: 2026-05-11
 categories:

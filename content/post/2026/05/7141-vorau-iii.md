@@ -1,6 +1,6 @@
 ---
 title: "7141 - Vorau III"
-url: /2026/04/7141-vorau-iii.html
+url: /2026/05/7141-vorau-iii.html
 publishDate: 2026-05-10 19:00:00
 date: 2026-05-10
 categories:

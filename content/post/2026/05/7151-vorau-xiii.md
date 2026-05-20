@@ -1,6 +1,6 @@
 ---
 title: "7151 - Vorau XIII"
-url: /2026/04/7151-vorau-xiii.html
+url: /2026/05/7151-vorau-xiii.html
 publishDate: 2026-05-20 19:00:00
 date: 2026-05-20
 categories:

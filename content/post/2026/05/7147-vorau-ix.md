@@ -1,6 +1,6 @@
 ---
 title: "7147 - Vorau IX"
-url: /2026/04/7147-vorau-ix.html
+url: /2026/05/7147-vorau-ix.html
 publishDate: 2026-05-16 19:00:00
 date: 2026-05-16
 categories:
