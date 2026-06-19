@@ -6,8 +6,8 @@ if [[ "/Volumes/$1" != "/Volumes/" ]]; then
     exit 1
   fi
   TARGET="/Volumes/$1"
-elif [ -d /Volumes/Photos ] ; then
-  TARGET=/Volumes/Photos
+elif [ -d /Volumes/Crucial6T1 ] ; then
+  TARGET=/Volumes/Crucial6T1
 elif [ -d /Volumes/Speedy ]; then
   TARGET=/Volumes/Speedy
 else
@@ -59,7 +59,9 @@ cd ~/src || exit 1
 mkdir -p $TARGET/src/
 
 for d in * ; do
-  rsync -rv --size-only --exclude=node_modules --delete "$d" "$TARGET/src/"
+  rsync -rv --size-only \
+    --exclude=node_modules --exclude=.config --exclude=.cache --exclude=.git \
+    --delete "$d" "$TARGET/src/"
 done
 
 ## GOOGLE DRIVE #####################################################
