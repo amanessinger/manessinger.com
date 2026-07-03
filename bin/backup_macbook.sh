@@ -8,6 +8,8 @@ if [[ "/Volumes/$1" != "/Volumes/" ]]; then
   TARGET="/Volumes/$1"
 elif [ -d /Volumes/Crucial6T1 ] ; then
   TARGET=/Volumes/Crucial6T1
+elif [ -d /Volumes/Crucial6T2 ] ; then
+  TARGET=/Volumes/Crucial6T2
 elif [ -d /Volumes/Speedy ]; then
   TARGET=/Volumes/Speedy
 else
