@@ -47,13 +47,22 @@ approximate at best. Dates are dates finished reading.
 | 2025-08-~~    | Samantha Harvey        | "_Orbital_"                                        | 2023 |
 | 2025-08-~~    | Juan Rulfo             | "_Unter einem fernen Himmel_"                      | 1955 |
 | 2025-06-~~    | Christa Wolf           | "_Störfall_"                                       | 1987 |
+| 2020-06-~~    | Juli Zeh               | "_Unterleuten_"                                    | 2016 |
+| 2020-05-~~    | Juli Zeh               | "_Über Menschen_"                                  | 2021 |
+| 2020-05-~~    | Bernhard Schlink       | "_Die Enkelin_"                                    | 2021 |
 | 2025-05-~~    | Christa Wolf           | "_Medea. Stimmen_"                                 | 1996 |
 | 2025-05-~~    | Christa Wolf           | "_Der geteilte Himmel_"                            | 1963 |
+| 2025-05-~~    | Christa Wolf           | "_Kassandra_"                                      | 1983 |
 | 2025-04-~~    | Judith Schalansky      | "_Verzeichnis einiger Verluste_"                   | 2018 |
 | 2025-04-~~    | Friedrich Dürrenmatt   | "_Grieche sucht Griechin_"                         | 1955 |
 | 2025-04-~~    | Friedrich Dürrenmatt   | "_Der Besuch der alten Dame_"                      | 1956 |
 | 2025-04-~~    | Friedrich Dürrenmatt   | "_Richter und sein Henker / Der Verdacht_"         | 1950 |
-| 2025-03-~~    | Martin Suter           | "_Melody_"                                         | 2023 |
 | 2025-03-~~    | Friedrich Dürrenmatt   | "_Das Versprechen: Requiem auf den Kriminalroman_" | 1950 |
+| 2025-03-~~    | Martin Suter           | "_Melody_"                                         | 2023 |
+| 2025-03-~~    | Martin Suter           | "_Small World_"                                    | 1997 |
+| 2025-03-~~    | Martin Suter           | "_Der Teufel von Mailand_"                         | 2006 |
+| 2025-02-~~    | Timothy Snyder         | "_On Tyrrany_"                                     | 2017 |
+| 2025-02-~~    | Tony Tulathimutte      | "_Rejection_"                                      | 2024 |
+| 2025-02-~~    | Friedrich Glauser      | "_Schlumpf Erwin Mord_"                            | 1936 |
 
 
