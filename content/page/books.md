@@ -8,6 +8,7 @@ approximate at best. Dates are dates finished reading.
 
 | Book finished | Author                 | Title                                              | Year |
 |:--------------|:-----------------------|:---------------------------------------------------|-----:|
+| 2026-07-19    | Lena Schätte           | "_Das Schwarz an den Händen meines Vaters_"        | 2025 |
 | 2026-07-17    | Natasha Brown          | "_Universality_"                                   | 2025 |
 | 2026-07-12    | Natasha Brown          | "_Assembly_"                                       | 2021 |
 | 2026-07-11    | Bruno Schulz           | "_Der Komet_"                                      | 1936 |
@@ -64,5 +65,13 @@ approximate at best. Dates are dates finished reading.
 | 2025-02-~~    | Timothy Snyder         | "_On Tyrrany_"                                     | 2017 |
 | 2025-02-~~    | Tony Tulathimutte      | "_Rejection_"                                      | 2024 |
 | 2025-02-~~    | Friedrich Glauser      | "_Schlumpf Erwin Mord_"                            | 1936 |
+| 2025-01-~~    | Peter Handke           | "_Mein Tag im anderen Land_"                       | 2021 |
+| 2024-11-~~    | Yuval Noah Harari      | "_Nexus_"                                          | 2024 |
+| 2024-11-~~    | Yuval Noah Harari      | "_21 Lessons for the 21st Century_"                | 2018 |
+| 2024-10-~~    | Peter Handke           | "_Die Ballade des letzten Gastes_"                 | 2023 |
+| 2024-10-~~    | Yuval Noah Harari      | "_Homo Deus_"                                      | 2016 |
+| 2024-09-~~    | Yuval Noah Harari      | "_Sapiens_"                                        | 2014 |
+
+
 
 
