@@ -71,6 +71,10 @@ approximate at best. Dates are dates finished reading.
 | 2024-10-~~    | Peter Handke           | "_Die Ballade des letzten Gastes_"                 | 2023 |
 | 2024-10-~~    | Yuval Noah Harari      | "_Homo Deus_"                                      | 2016 |
 | 2024-09-~~    | Yuval Noah Harari      | "_Sapiens_"                                        | 2014 |
+| 2023-11-~~    | Drago Jančar           | "_Die Nacht, als ich sie sah_"                     | 2010 |
+| 2023-11-~~    | Drago Jančar           | "_Nordlicht_"                                      | 1984 |
+| 2023-11-~~    | Drago Jančar           | "_Wenn die Liebe ruht_"                            | 2017 |
+| 2023-10-~~    | Drago Jančar           | "_Als die Welt entstand_"                          | 2022 |
 
 
 
