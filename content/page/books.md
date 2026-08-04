@@ -8,6 +8,7 @@ approximate at best. Dates are dates finished reading.
 
 | Book finished | Author                  | Title                                              | Year |
 |:--------------|:------------------------|:---------------------------------------------------|-----:|
+| 2026-08-04    | Andrzej Szczypiorski    | "_Den Schatten fangen_"                            | 1995 |
 | 2026-08-02    | Andrzej Szczypiorski    | "_Nacht, Tag und Nacht_"                           | 1991 |
 | 2026-07-26    | Andrzej Szczypiorski    | "_Die schöne Frau Seidenmann_"                     | 1986 |
 | 2026-07-22    | Andrzej Szczypiorski    | "_Eine Messe für die Stadt Arras_"                 | 1979 |
