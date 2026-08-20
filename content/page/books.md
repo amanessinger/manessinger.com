@@ -8,6 +8,7 @@ approximate at best. Dates are dates finished reading.
 
 | Book finished | Author                 | Title                                              | Year |
 |:--------------|:-----------------------|:---------------------------------------------------|-----:|
+| 2026-08-19    | Robert Seethaler       | "_Ein ganzes Leben_"                               | 2016 |
 | 2026-08-16    | Robert Seethaler       | "_Das Café ohne Namen_"                            | 2023 |
 | 2026-08-14    | Andrzej Szczypiorski   | "_Selbstporträt mit Frau_"                         | 1995 |
 | 2026-08-04    | Andrzej Szczypiorski   | "_Den Schatten fangen_"                            | 1995 |
