@@ -8,6 +8,7 @@ approximate at best. Dates are dates finished reading.
 
 | Book finished | Author                 | Title                                              | Year |
 |:--------------|:-----------------------|:---------------------------------------------------|-----:|
+| 2026-08-22    | Robert Seethaler       | "_Der Trafikant_"                                  | 2013 |
 | 2026-08-19    | Robert Seethaler       | "_Ein ganzes Leben_"                               | 2016 |
 | 2026-08-16    | Robert Seethaler       | "_Das Café ohne Namen_"                            | 2023 |
 | 2026-08-14    | Andrzej Szczypiorski   | "_Selbstporträt mit Frau_"                         | 1995 |
