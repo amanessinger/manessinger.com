@@ -8,6 +8,7 @@ approximate at best. Dates are dates finished reading.
 
 | Book finished | Author                 | Title                                              | Year |
 |:--------------|:-----------------------|:---------------------------------------------------|-----:|
+| 2026-09-08    | Franziska Gänsler      | "_Wie Inseln im Licht_"                            | 2024 |
 | 2026-09-06    | Franziska Gänsler      | "_Ewig Sommer_"                                    | 2022 |
 | 2026-09-04    | Carlo Levi             | "_Christus kam nur bis Eboli_"                     | 1945 |
 | 2026-08-31    | Robert Seethaler       | "_Die Straße_"                                     | 2026 |
