@@ -15,4 +15,4 @@ tags:
 </div>
 <br />
 
-Back again in the church. Nice ceiling.
+Back again in the church. Nice ceiling. This time not HDR.
