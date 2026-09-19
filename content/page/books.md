@@ -8,6 +8,7 @@ approximate at best. Dates are dates finished reading. The language of the descr
 
 | Book finished | Author                 | Title                                                          | Year |
 |:--------------|:-----------------------|:---------------------------------------------------------------|-----:|
+| 2026-09-19    | Franziska Gänsler      | ["_Orca_"](/orca/)                                             | 2026 |
 | 2026-09-08    | Franziska Gänsler      | ["_Wie Inseln im Licht_"](/wie-inseln-im-licht/)               | 2024 |
 | 2026-09-06    | Franziska Gänsler      | ["_Ewig Sommer_"](/ewig-sommer/)                               | 2022 |
 | 2026-09-04    | Carlo Levi             | ["_Christus kam nur bis Eboli_"](/christus-kam-nur-bis-eboli/) | 1945 |
