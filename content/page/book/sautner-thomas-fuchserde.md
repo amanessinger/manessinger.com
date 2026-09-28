@@ -26,6 +26,8 @@ mit den Jahreszeiten. Das nördliche Waldviertel, mystisch-schön mit seinen aus
 Mooren und den Jahrmillionen alten markanten Restlingen aus Granit ist dabei mehr als bloß der Schauplatz eines grossen
 Familienromans.
 
+233 Seiten
+
 ## Notizen
 
 _Nach dem Tod des Großvaters verlor Luca keine Zeit. Er packte seine Siebensachen und dann tat er das, was ihm sein
