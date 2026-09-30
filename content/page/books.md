@@ -17,7 +17,7 @@ approximate at best. Dates are dates finished reading. The language of the descr
 | 2026-08-31    | Robert Seethaler       | ["_Die Straße_"](/die-straße/)                                 | 2026 |
 | 2026-08-28    | Robert Seethaler       | ["_Das Feld_"](/das-feld/)                                     | 2019 |
 | 2026-08-25    | Robert Seethaler       | ["_Der letzte Satz_"](/der-letzte-satz/)                       | 2020 |
-| 2026-08-22    | Robert Seethaler       | "_Der Trafikant_"                                              | 2013 |
+| 2026-08-22    | Robert Seethaler       | ["_Der Trafikant_"](/der-trafikant/)                           | 2013 |
 | 2026-08-19    | Robert Seethaler       | "_Ein ganzes Leben_"                                           | 2016 |
 | 2026-08-16    | Robert Seethaler       | "_Das Café ohne Namen_"                                        | 2023 |
 | 2026-08-14    | Andrzej Szczypiorski   | "_Selbstporträt mit Frau_"                                     | 1995 |

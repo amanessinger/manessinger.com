@@ -59,4 +59,8 @@ Ein spontaner Kurzausflug nach Locarno soll klären, endet aber nur in einer has
 Spuren, fischt eine alte Pizzapackung aus dem Altpapier und legt sie zuoberst auf den Stapel. Edith kann kommen, alles
 ist wieder wie es war.
 
-Nicht gerade ein Reisser, aber ein solides, kurzes Buch, das Lust auf seine ebenso kurze Fortsetzung macht.
+Walter ist kein Hasardeur. Er kostet das Abenteuer und schreckt sofort zurück. Er nimmt an, dass er vollständig in sein
+gewohntes Leben zurückkehren kann, und so scheint es auch. Edith reagiert exakt wie erwartet, Walters Eskapade hatte
+keinerlei Folgen.
+
+Ein solides, kurzes Buch, das Lust auf seine ebenso kurze Fortsetzung macht.
