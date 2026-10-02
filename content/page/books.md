@@ -8,6 +8,7 @@ approximate at best. Dates are dates finished reading. The language of the descr
 
 | Book finished | Author                 | Title                                                          | Year |
 |:--------------|:-----------------------|:---------------------------------------------------------------|-----:|
+| 2026-10-01    | Lorenz Langenegger     | ["_Bei 30 Grad im Schatten_"](/bei-30-grad-im-schatten/)       | 2014 |
 | 2026-09-28    | Lorenz Langenegger     | ["_Hier im Regen_"](/hier-im-regen/)                           | 2009 |
 | 2026-09-24    | Thomas Sautner         | ["_Fuchserde_"](/fuchserde/)                                   | 2006 |
 | 2026-09-19    | Franziska Gänsler      | ["_Orca_"](/orca/)                                             | 2026 |
