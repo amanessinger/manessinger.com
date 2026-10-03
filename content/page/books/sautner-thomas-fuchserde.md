@@ -1,5 +1,6 @@
 ---
 title: "Fuchserde"
+url: "/books/fuchserde.html"
 date: "2026-09-24"
 ---
 # Thomas Sautner, 2006

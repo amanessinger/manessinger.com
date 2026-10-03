@@ -1,5 +1,6 @@
 ---
 title: "Der letzte Satz"
+url: "/books/der-letzte-satz.html"
 date: "2026-08-25"
 ---
 # Robert Seethaler, 2020
@@ -71,4 +72,4 @@ ein junger Charon über den Styx, sei platt, das Buch nicht mehr als eine Skizze
 
 Nichts davon stört mich. Ja, der Inhalt ist zu weiten Teilen in der Wikipedia zu finden, aber das Arrangement ist
 dennoch ein Kunstwerk. Es ist nicht das erste Buch Seethalers, das ich empfehlen würde, es ist nicht wie seine anderen
-Bücher (wenngleich es Anklänge an ["Das Feld"](/das-feld/) gibt), aber es ist ein gelungenes Werk in sich.
+Bücher (wenngleich es Anklänge an ["Das Feld"](das-feld.html) gibt), aber es ist ein gelungenes Werk in sich.

@@ -1,5 +1,6 @@
 ---
 title: "Ewig Sommer"
+url: "/books/ewig-sommer.html"
 date: "2026-09-08"
 ---
 # Franziska Gänsler, 2022

@@ -141,8 +141,8 @@ blockquote {
   max-width: 800px;
   margin: 60px auto 80px;
   padding: 0 15px;
-  font-size: 16px;
-  line-height: 1.7;
+  font-size: 14px;
+  line-height: 1.6;
   color: #555;
 }
 
@@ -562,8 +562,8 @@ blockquote {
   }
 
   .content {
-    font-size: 19px;
-    line-height: 1.8;
+    font-size: 16px;
+    line-height: 1.7;
     margin: 100px auto;
   }
 

@@ -1,5 +1,6 @@
 ---
 title: "Christus kam nur bis Eboli"
+url: "/books/christus-kam-nur-bis-eboli.html"
 date: "2026-09-04"
 ---
 # Carlo Levi, 1945

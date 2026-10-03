@@ -1,5 +1,6 @@
 ---
 title: "Wie Inseln im Licht"
+url: "/books/wie-inseln-im-licht.html"
 date: "2026-09-06"
 ---
 # Franziska Gänsler, 2024

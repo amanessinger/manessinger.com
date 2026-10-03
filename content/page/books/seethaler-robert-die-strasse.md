@@ -1,5 +1,6 @@
 ---
 title: "Die Straße"
+url: "/books/die-strasse.html"
 date: "2026-08-31"
 ---
 # Seethaler Robert, 2026
@@ -42,7 +43,7 @@ oder schon wieder am Verschwinden. Mir ist es lieber, wenn der Mann duftet, nich
 ## Fazit
 
 Notizen, Gesprächsfetzen, die Ereignisse eines Jahres, Leben, Sterben, Spekulation, ein Altersheim, die jämmerliche
-Skulptur des unbekannten Heiligen Jolander. Wieder das Gasthaus "Goldener Mond", wie in ["Das Feld"](/das-feld/). 
+Skulptur des unbekannten Heiligen Jolander. Wieder das Gasthaus "Goldener Mond", wie in ["Das Feld"](das-feld.html). 
 
 Nicht immer ist klar, wer spricht, aber eigentlich ist es egal. So etwas wie der Bewusstseinsstrom einer Straße. Das
 bisher schwierigste und am wenigsten haften bleibende Buch Seethalers. Trotzdem empfehlenswert.

@@ -1,5 +1,6 @@
 ---
 title: "Das Feld"
+url: "/books/das-feld.html"
 date: "2026-08-28"
 ---
 # Seethaler Robert, 2019

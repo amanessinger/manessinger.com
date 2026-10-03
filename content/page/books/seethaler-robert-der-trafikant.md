@@ -1,5 +1,6 @@
 ---
 title: "Der Trafikant"
+url: "/books/der-trafikant.html"
 date: "2026-08-22"
 ---
 # Robert Seethaler, 2013

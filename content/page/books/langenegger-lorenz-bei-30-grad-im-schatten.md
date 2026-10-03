@@ -1,5 +1,6 @@
 ---
 title: "Bei 30 Grad im Schatten"
+url: "/books/bei-30-grad-im-schatten.html"
 date: "2026-10-01"
 ---
 # Lorenz Langenegger, 2014
@@ -114,7 +115,7 @@ Rücken ein Motorengeräusch hört. Er wird am Straßenrand stehen, die Hand heb
 
 ## Fazit
 
-In ["Hier im Regen"](/hier-im-regen/) war es nur der zaghafte Versuch, zu sehen, wie eine Zäsur aussehen könnte – und
+In ["Hier im Regen"](hier-im-regen.html) war es nur der zaghafte Versuch, zu sehen, wie eine Zäsur aussehen könnte – und
 Jakob Walter ist zurückgezuckt, wieder hineingefallen in seine perfekt unveränderliche Existenz. Er würde nie etwas
 ändern. Bis, ja, bis Edith ihn verlässt. 
 

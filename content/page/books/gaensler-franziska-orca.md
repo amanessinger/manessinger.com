@@ -1,5 +1,6 @@
 ---
 title: "Orca"
+url: "/books/orca.html"
 date: "2026-09-18"
 ---
 # Franziska Gänsler, 2026
@@ -57,7 +58,7 @@ entgleist, Eleonore Brecht stirbt. Die mit dem Haus vertraute Cora führt Olympi
 Haus und auf die Flucht. Selber kehrt sie ins Haus zurück. Arial ist tot, Cora geht ins Zimmer der schlafenden Lilian,
 von ihr selbst auf einen Drogentrip gesetzt. Vor der Polizei behauptet sie, sie wäre nie woanders gewesen.
 
-Ein faszinierendes und vielschichtiges Buch, das wieder das Protest-Thema aus [Ewig Sommer](/ewig-sommer/) aufnimmt, und
+Ein faszinierendes und vielschichtiges Buch, das wieder das Protest-Thema aus [Ewig Sommer](ewig-sommer.html) aufnimmt, und
 wie immer bei Gänsler, die zarten Gefühle zwischen Frauen. 
 
 Ein Buch aus der Gegenwart. Alles ist kompliziert, es gibt gigantische globale Probleme, die Kooperation erfordern, aber

@@ -1,5 +1,6 @@
 ---
 title: "Hier im Regen"
+url: "/books/hier-im-regen.html"
 date: "2026-09-28"
 ---
 # Lorenz Langenegger, 2009

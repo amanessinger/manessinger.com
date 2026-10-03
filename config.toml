@@ -25,7 +25,7 @@ weight = -100
 
 [[menu.main]]
 name = "Books"
-url = "/books/"
+url = "/books/list.html"
 weight = -110
 
 [[menu.main]]
