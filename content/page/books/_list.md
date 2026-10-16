@@ -9,6 +9,7 @@ approximate at best. Dates are dates finished reading. The language of the descr
 
 | Book finished | Author                 | Title                                                                             | Year |
 |:--------------|:-----------------------|:----------------------------------------------------------------------------------|-----:|
+| 2026-10-16    | Martin Mosebach        | ["_Die Richtige_"](die-richtige.html)                                             | 2025 |
 | 2026-10-11    | Martin Mosebach        | ["_Der Mond und das Mädchen_"](der-mond-und-das-mädchen.html)                     | 2007 |
 | 2026-10-05    | Lorenz Langenegger     | ["_Die Tage zwischen früher und jetzt_"](die-tage-zwischen-fruher-und-jetzt.html) | 2026 |
 | 2026-10-01    | Lorenz Langenegger     | ["_Bei 30 Grad im Schatten_"](bei-30-grad-im-schatten.html)                       | 2014 |
