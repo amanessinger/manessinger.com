@@ -84,34 +84,34 @@ Ein streng gegliedertes Buch, sehr formal aufgebaut, geprägt von Symmetrie. In 
 leichte Geschichte von großer Tiefe. Ein Ehepaar, Verleger und Kunstsammlertochter, leben in einer streng geordneten
 Welt. Als sie sich vor 12 Jahren fanden, hatten sie beide ihre großen Lieben und Leidenschaften bereits hinter sich. 
 
-Jeden Sommer verbringen sie in Majories ererbtem Landhaus, der "Chaumière", in der Provence, mit dem "Cezanne-Blick" auf
-die Montagne Sainte-Victoire. Dort leben sie strikt nach den Regeln, die Majories Vater in seinem Testament gesetzt hat.
+Jeden Sommer verbringen sie in Marjories ererbtem Landhaus, der "Chaumière", in der Provence, mit dem "Cezanne-Blick" auf
+die Montagne Sainte-Victoire. Dort leben sie strikt nach den Regeln, die Marjories Vater in seinem Testament gesetzt hat.
 Das alte portugiesische Paar Dos Santos ist Köchin und Gärtner, der englische Dekorationsmaler Damien ist schlampiger
-Verwalter. Paula, Stieftochter Ruprechts aus Majories erster Ehe, ihr Partner und hoffnungsloser Pianist Max, ihre
+Verwalter. Paula, Stieftochter Ruprechts aus Marjories erster Ehe, ihr Partner und hoffnungsloser Pianist Max, ihre
 Tochter Nike. Zu ihnen gesellen sich diesen Sommer ein Mitarbeiter und eine Mitarbeiterin aus Ruprechts Verlag.
 
 Das Tableaux ist aufgebaut, alles ist wohlgefügt für die Ewigkeit. Niemand ist glücklich, alle sind zufrieden. Man hat
 sich arrangiert.
 
-Nun beginnen die Überraschungen, zeigen sich die Risse. Majorie schläft mit Damien, was Ruprecht unvermutet weiß,
-Ruprecht hatte eine Affäre mit Paula, was Majorie nie wissen darf.
+Nun beginnen die Überraschungen, zeigen sich die Risse. Marjorie schläft mit Damien, was Ruprecht unvermutet weiß,
+Ruprecht hatte eine Affäre mit Paula, was Marjorie nie wissen darf.
 
 Max reist überstürzt ab, weil er Paulas Härte nicht erträgt. Es stellt sich heraus, niemand ist glücklich, niemand ist
-zufrieden. Man wagt Risiken, und als Ruprecht die Bedeutung eines Bildes erkennt, das Majorie nie beachtet hat,
+zufrieden. Man wagt Risiken, und als Ruprecht die Bedeutung eines Bildes erkennt, das Marjorie nie beachtet hat,
 entspinnt sich ein Streit.
 
-Am Ende des Sommers bleibt Majorie in der Provence, vorgeblich um die Erneuerung des Daches zu beaufsichtigen, deren
+Am Ende des Sommers bleibt Marjorie in der Provence, vorgeblich um die Erneuerung des Daches zu beaufsichtigen, deren
 Finanzierung der Verkauf des Bildes an Ruprecht ermöglicht. Ruprecht kehrt mit Paula und Nike nach Frankfurt zurück.
-Dort lebt er mit Paula das nur vor Nike verborgene Glück. Majorie bleibt in der Provence und genießt die Freiheit mit
+Dort lebt er mit Paula das nur vor Nike verborgene Glück. Marjorie bleibt in der Provence und genießt die Freiheit mit
 Damien.
 
 Mit der Trennung zerfällt alles. Damien war hinter dem Geld her, Paula und Ruprecht werden einander fremd. 
 
-Majorie kehrt zurück nach Frankfurt zum Dreikönigsfest in der für Nike erstmals mit einem Weihnachtsbaum geschmückten
+Marjorie kehrt zurück nach Frankfurt zum Dreikönigsfest in der für Nike erstmals mit einem Weihnachtsbaum geschmückten
 Wohnung. Sie erzählt, wie La Chaumière von Sturzfluten zerstört wurde, und gemeinsam, nach dem Abendessen, erleben sie,
 wie auch die Wohnung in Frankfurt zerstört wird durch das Feuer des Christbaums.
 
-Majorie und Ruprecht sind wieder allein und zurück in ihrem natürlichen Nebeneinander.
+Marjorie und Ruprecht sind wieder allein und zurück in ihrem natürlichen Nebeneinander.
 
 Ein vollkommenes Buch, ein Meisterwerk.
 
