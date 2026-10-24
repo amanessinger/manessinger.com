@@ -23,4 +23,4 @@ Still, I suppose it's pretty accurate in places where photos existed. Together w
 existed in burned fragments, it might have been possible to recreate the impression the church gave before the bombings.
 
 Of course, this might still be far off the original. Just think of all the baroque alters that have replaced their
-gothic predecessors., even without wars.
+gothic predecessors, even without wars.
