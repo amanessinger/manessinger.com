@@ -19,3 +19,7 @@ tags:
 We have arrived at the Piazza del Duomo. It's crowded with people. While I was figuring out how to tackle the church, I
 first took on an easier target, the famous shopping center Galleria Vittorio Emanuele II on the northern side of the
 piazza.
+
+This text was written more than a week ago. Hungary, Brazil, Serbia and Israel have turned out well. Now, at November 4,
+we will already know what the US midterm elections have brought. Anything but both chambers won't suffice. And even
+then: Trump has two more years to ignore constitution, Congress and basic rules of decency.
