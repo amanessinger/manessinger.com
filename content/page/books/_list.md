@@ -9,6 +9,7 @@ approximate at best. Dates are dates finished reading. The language of the descr
 
 | Book finished | Author                 | Title                                                                             | Year |
 |:--------------|:-----------------------|:----------------------------------------------------------------------------------|-----:|
+| 2026-10-31    | Shida Bazyar           | ["_Die Lücken_"](die-luecken.html)                                                | 2026 |
 | 2026-10-19    | Martin Mosebach        | ["_Taube und Wildente_"](taube-und-wildente.html)                                 | 2022 |
 | 2026-10-16    | Martin Mosebach        | ["_Die Richtige_"](die-richtige.html)                                             | 2025 |
 | 2026-10-11    | Martin Mosebach        | ["_Der Mond und das Mädchen_"](der-mond-und-das-mädchen.html)                     | 2007 |
