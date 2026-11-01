@@ -89,4 +89,5 @@ Aber auch das ist letztlich gewollt, denn es spiegelt die Perspektive der migran
 Zusammenhänge zwischen den Personen und die Geschichte des Ortes anfangs völlig opak sind und sich ebenfalls erst
 episodisch erschließen.
 
-Ein verdienter Deutscher Buchpreis 2026, auch wenn 30% der Bevölkerung das wahrscheinlich anders sehen werden.
+Ein verdienter Deutscher Buchpreis 2026, auch oder gerade wenn 30% der Bevölkerung das wahrscheinlich anders sehen
+werden.
