@@ -7,14 +7,15 @@ date: "2026-07-04"
 I need a place to remember books I've read. Let's try it here. The order is chronological, dates before 2026-07-04 are
 approximate at best. Dates are dates finished reading. The language of the descriptions is German.
 
-| Book finished | Author                 | Title                                                                             | Year |
-|:--------------|:-----------------------|:----------------------------------------------------------------------------------|-----:|
+| Book finished | Author | Title | Year |
+|:--------------|:------------------------------|:---------------------------------------------------------------------------------------|-----:|
+| 2026-11-12    | Tonio Schachinger             | ["_Echtzeitalter_"](echtzeitalter.html)                                                | 2023 |
 | 2026-10-31    | Shida Bazyar           | ["_Die Lücken_"](die-luecken.html)                                                | 2026 |
 | 2026-10-19    | Martin Mosebach        | ["_Taube und Wildente_"](taube-und-wildente.html)                                 | 2022 |
 | 2026-10-16    | Martin Mosebach        | ["_Die Richtige_"](die-richtige.html)                                             | 2025 |
 | 2026-10-11    | Martin Mosebach        | ["_Der Mond und das Mädchen_"](der-mond-und-das-mädchen.html)                     | 2007 |
-| 2026-10-05    | Lorenz Langenegger     | ["_Die Tage zwischen früher und jetzt_"](die-tage-zwischen-fruher-und-jetzt.html) | 2026 |
-| 2026-10-01    | Lorenz Langenegger     | ["_Bei 30 Grad im Schatten_"](bei-30-grad-im-schatten.html)                       | 2014 |
+| 2026-10-05    | Lorenz Langenegger     | ["_Die Tage zwischen früher und jetzt_"](die-tage-zwischen-fruher-und-jetzt.html)| 2026 |
+| 2026-10-01    | Lorenz Langenegger     | ["_Bei 30 Grad im Schatten_"](bei-30-grad-im-schatten.html)  | 2014 |
 | 2026-09-28    | Lorenz Langenegger     | ["_Hier im Regen_"](hier-im-regen.html)                                           | 2009 |
 | 2026-09-24    | Thomas Sautner         | ["_Fuchserde_"](fuchserde.html)                                                   | 2006 |
 | 2026-09-19    | Franziska Gänsler      | ["_Orca_"](orca.html)                                                             | 2026 |
