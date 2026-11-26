@@ -9,6 +9,7 @@ approximate at best. Dates are dates finished reading. The language of the descr
 
 | Book finished | Author | Title | Year |
 |:--------------|:------------------------|:----------------------------------------------------------|-----:|
+| 2026-11-24 | Thomas Bernhard | ["_Holzfällen: Eine Erregung_"](holzfaellen.html)                                       | 1984 |
 | 2026-11-15 | Thomas Bernhard | ["_Heldenplatz_"](heldenplatz.html)                                       | 1988 |
 | 2026-11-12    | Tonio Schachinger      | ["_Echtzeitalter_"](echtzeitalter.html)                              | 2023 |
 | 2026-10-31    | Shida Bazyar           | ["_Die Lücken_"](die-luecken.html)                                       | 2026 |
@@ -84,7 +85,7 @@ approximate at best. Dates are dates finished reading. The language of the descr
 | 2025-04-~~    | Friedrich Dürrenmatt   | "_Grieche sucht Griechin_"                                    | 1955 |
 | 2025-04-~~    | Friedrich Dürrenmatt   | "_Der Besuch der alten Dame_"                                 | 1956 |
 | 2025-04-~~    | Friedrich Dürrenmatt   | "_Richter und sein Henker / Der Verdacht_"                    | 1950 |
-| 2025-03-~~    | Friedrich Dürrenmatt   | "_Das Versprechen: Requiem auf den Kriminalroman_"            | 1950 |
+| 2025-03-~~    | Friedrich Dürrenmatt   | "_Das Versprechen: Requiem auf den Kriminalroman_" | 1950 |
 | 2025-03-~~    | Martin Suter           | "_Melody_"                                                    | 2023 |
 | 2025-03-~~    | Martin Suter           | "_Small World_"                                               | 1997 |
 | 2025-03-~~    | Martin Suter           | "_Der Teufel von Mailand_"                                    | 2006 |
